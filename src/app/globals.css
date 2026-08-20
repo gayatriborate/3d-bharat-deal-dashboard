@@ -1,0 +1,149 @@
+@import "tailwindcss";
+
+:root {
+  /* Surfaces */
+  --bg: #0a0d14;
+  --bg-elevated: #10141d;
+  --surface: #141926;
+  --surface-hover: #1a2131;
+  --border: #232a3b;
+  --border-soft: #1a2030;
+
+  /* Text */
+  --text-primary: #edeff3;
+  --text-secondary: #a6adbc;
+  --text-muted: #6b7386;
+
+  /* Brand accents */
+  --gold: #d4a54a;
+  --gold-soft: #d4a54a1a;
+  --emerald: #24b47e;
+  --emerald-soft: #24b47e1a;
+  --rose: #e2574c;
+  --rose-soft: #e2574c1a;
+  --azure: #4a90d4;
+  --azure-soft: #4a90d41a;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+}
+
+html.light {
+  --bg: #f6f5f1;
+  --bg-elevated: #ffffff;
+  --surface: #ffffff;
+  --surface-hover: #f0efe9;
+  --border: #e4e1d7;
+  --border-soft: #ece9df;
+
+  --text-primary: #1a1d24;
+  --text-secondary: #565c6b;
+  --text-muted: #8b93a0;
+
+  --gold-soft: #d4a54a22;
+  --emerald-soft: #24b47e18;
+  --rose-soft: #e2574c18;
+  --azure-soft: #4a90d418;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-elevated: var(--bg-elevated);
+  --color-surface: var(--surface);
+  --color-surface-hover: var(--surface-hover);
+  --color-border: var(--border);
+  --color-border-soft: var(--border-soft);
+
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-emerald: var(--emerald);
+  --color-emerald-soft: var(--emerald-soft);
+  --color-rose: var(--rose);
+  --color-rose-soft: var(--rose-soft);
+  --color-azure: var(--azure);
+  --color-azure-soft: var(--azure-soft);
+
+  --font-display: "Space Grotesk", "Inter", system-ui, sans-serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", monospace;
+}
+
+* {
+  border-color: var(--border);
+}
+
+html {
+  color-scheme: dark;
+}
+html.light {
+  color-scheme: light;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text-primary);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--gold-soft);
+  color: var(--gold);
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 8px;
+  border: 2px solid var(--bg);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Ticker marquee — the signature element */
+@keyframes ticker-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.ticker-track {
+  animation: ticker-scroll 45s linear infinite;
+}
+.ticker-track:hover {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track {
+    animation: none;
+  }
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

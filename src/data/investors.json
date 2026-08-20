@@ -1,0 +1,288 @@
+[
+  {
+    "id": "inv-001",
+    "name": "Rohan Mehta",
+    "type": "Individual",
+    "city": "Hyderabad",
+    "riskAppetite": "Medium",
+    "preferredIndustries": [
+      "CleanEnergy",
+      "E-commerce"
+    ],
+    "budgetMin": 1,
+    "budgetMax": 6,
+    "totalInvested": 2865,
+    "activeDeals": 14,
+    "joinedAt": "2024-11-21T00:00:00.000Z",
+    "avatarSeed": "RohanMehta1"
+  },
+  {
+    "id": "inv-002",
+    "name": "Aarav Chatterjee",
+    "type": "VC Fund",
+    "city": "Chennai",
+    "riskAppetite": "High",
+    "preferredIndustries": [
+      "E-commerce",
+      "HealthTech"
+    ],
+    "budgetMin": 25,
+    "budgetMax": 275,
+    "totalInvested": 400,
+    "activeDeals": 5,
+    "joinedAt": "2023-11-03T00:00:00.000Z",
+    "avatarSeed": "AaravChatterjee2"
+  },
+  {
+    "id": "inv-003",
+    "name": "Ananya Kapoor",
+    "type": "Individual",
+    "city": "Kolkata",
+    "riskAppetite": "Low",
+    "preferredIndustries": [
+      "E-commerce",
+      "Logistics",
+      "Media & Entertainment"
+    ],
+    "budgetMin": 10,
+    "budgetMax": 180,
+    "totalInvested": 4202,
+    "activeDeals": 13,
+    "joinedAt": "2023-12-17T00:00:00.000Z",
+    "avatarSeed": "AnanyaKapoor3"
+  },
+  {
+    "id": "inv-004",
+    "name": "Ishaan Mehta",
+    "type": "Family Office",
+    "city": "Bengaluru",
+    "riskAppetite": "High",
+    "preferredIndustries": [
+      "SaaS",
+      "CleanEnergy",
+      "Fintech"
+    ],
+    "budgetMin": 50,
+    "budgetMax": 700,
+    "totalInvested": 3301,
+    "activeDeals": 1,
+    "joinedAt": "2023-11-01T00:00:00.000Z",
+    "avatarSeed": "IshaanMehta4"
+  },
+  {
+    "id": "inv-005",
+    "name": "Kavya Gupta",
+    "type": "HNI",
+    "city": "Pune",
+    "riskAppetite": "Low",
+    "preferredIndustries": [
+      "CleanEnergy",
+      "Logistics",
+      "E-commerce",
+      "EdTech"
+    ],
+    "budgetMin": 10,
+    "budgetMax": 100,
+    "totalInvested": 2484,
+    "activeDeals": 7,
+    "joinedAt": "2022-11-01T00:00:00.000Z",
+    "avatarSeed": "KavyaGupta5"
+  },
+  {
+    "id": "inv-006",
+    "name": "Diya Iyer",
+    "type": "Family Office",
+    "city": "Kolkata",
+    "riskAppetite": "High",
+    "preferredIndustries": [
+      "Media & Entertainment",
+      "SaaS",
+      "E-commerce",
+      "EdTech"
+    ],
+    "budgetMin": 10,
+    "budgetMax": 40,
+    "totalInvested": 3345,
+    "activeDeals": 6,
+    "joinedAt": "2024-03-07T00:00:00.000Z",
+    "avatarSeed": "DiyaIyer6"
+  },
+  {
+    "id": "inv-007",
+    "name": "Aarav Gupta",
+    "type": "HNI",
+    "city": "Ahmedabad",
+    "riskAppetite": "Medium",
+    "preferredIndustries": [
+      "Media & Entertainment",
+      "Fintech"
+    ],
+    "budgetMin": 25,
+    "budgetMax": 100,
+    "totalInvested": 3064,
+    "activeDeals": 1,
+    "joinedAt": "2023-11-02T00:00:00.000Z",
+    "avatarSeed": "AaravGupta7"
+  },
+  {
+    "id": "inv-008",
+    "name": "Riya Iyer",
+    "type": "VC Fund",
+    "city": "Chandigarh",
+    "riskAppetite": "Medium",
+    "preferredIndustries": [
+      "AgriTech",
+      "Logistics",
+      "EdTech"
+    ],
+    "budgetMin": 50,
+    "budgetMax": 250,
+    "totalInvested": 211,
+    "activeDeals": 3,
+    "joinedAt": "2023-08-06T00:00:00.000Z",
+    "avatarSeed": "RiyaIyer8"
+  },
+  {
+    "id": "inv-009",
+    "name": "Aarav Gupta",
+    "type": "VC Fund",
+    "city": "Kolkata",
+    "riskAppetite": "High",
+    "preferredIndustries": [
+      "EdTech",
+      "HealthTech",
+      "AgriTech",
+      "Logistics"
+    ],
+    "budgetMin": 1,
+    "budgetMax": 12,
+    "totalInvested": 764,
+    "activeDeals": 18,
+    "joinedAt": "2022-04-03T00:00:00.000Z",
+    "avatarSeed": "AaravGupta9"
+  },
+  {
+    "id": "inv-010",
+    "name": "Sanya Sharma",
+    "type": "VC Fund",
+    "city": "Kolkata",
+    "riskAppetite": "Low",
+    "preferredIndustries": [
+      "Media & Entertainment",
+      "AgriTech",
+      "SaaS"
+    ],
+    "budgetMin": 5,
+    "budgetMax": 95,
+    "totalInvested": 1300,
+    "activeDeals": 11,
+    "joinedAt": "2022-10-06T00:00:00.000Z",
+    "avatarSeed": "SanyaSharma10"
+  },
+  {
+    "id": "inv-011",
+    "name": "Aarav Kapoor",
+    "type": "Family Office",
+    "city": "Ahmedabad",
+    "riskAppetite": "Low",
+    "preferredIndustries": [
+      "Media & Entertainment",
+      "EdTech",
+      "SaaS"
+    ],
+    "budgetMin": 1,
+    "budgetMax": 13,
+    "totalInvested": 2309,
+    "activeDeals": 11,
+    "joinedAt": "2024-08-02T00:00:00.000Z",
+    "avatarSeed": "AaravKapoor11"
+  },
+  {
+    "id": "inv-012",
+    "name": "Kavya Sharma",
+    "type": "HNI",
+    "city": "Kolkata",
+    "riskAppetite": "High",
+    "preferredIndustries": [
+      "Manufacturing",
+      "Fintech"
+    ],
+    "budgetMin": 50,
+    "budgetMax": 950,
+    "totalInvested": 4370,
+    "activeDeals": 13,
+    "joinedAt": "2023-12-05T00:00:00.000Z",
+    "avatarSeed": "KavyaSharma12"
+  },
+  {
+    "id": "inv-013",
+    "name": "Kavya Nair",
+    "type": "VC Fund",
+    "city": "Delhi NCR",
+    "riskAppetite": "High",
+    "preferredIndustries": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "budgetMin": 5,
+    "budgetMax": 55,
+    "totalInvested": 4617,
+    "activeDeals": 12,
+    "joinedAt": "2024-05-14T00:00:00.000Z",
+    "avatarSeed": "KavyaNair13"
+  },
+  {
+    "id": "inv-014",
+    "name": "Kavya Mehta",
+    "type": "HNI",
+    "city": "Chennai",
+    "riskAppetite": "Medium",
+    "preferredIndustries": [
+      "Logistics",
+      "SaaS",
+      "HealthTech",
+      "E-commerce"
+    ],
+    "budgetMin": 1,
+    "budgetMax": 10,
+    "totalInvested": 3430,
+    "activeDeals": 18,
+    "joinedAt": "2022-08-24T00:00:00.000Z",
+    "avatarSeed": "KavyaMehta14"
+  },
+  {
+    "id": "inv-015",
+    "name": "Ishaan Kapoor",
+    "type": "Family Office",
+    "city": "Bengaluru",
+    "riskAppetite": "High",
+    "preferredIndustries": [
+      "AgriTech",
+      "EdTech"
+    ],
+    "budgetMin": 1,
+    "budgetMax": 5,
+    "totalInvested": 1582,
+    "activeDeals": 14,
+    "joinedAt": "2022-11-26T00:00:00.000Z",
+    "avatarSeed": "IshaanKapoor15"
+  },
+  {
+    "id": "inv-016",
+    "name": "Meera Mehta",
+    "type": "Individual",
+    "city": "Chandigarh",
+    "riskAppetite": "Low",
+    "preferredIndustries": [
+      "Manufacturing",
+      "Logistics",
+      "SaaS"
+    ],
+    "budgetMin": 25,
+    "budgetMax": 425,
+    "totalInvested": 4131,
+    "activeDeals": 8,
+    "joinedAt": "2022-09-16T00:00:00.000Z",
+    "avatarSeed": "MeeraMehta16"
+  }
+]

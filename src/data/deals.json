@@ -1,0 +1,6134 @@
+[
+  {
+    "id": "deal-001",
+    "companyName": "VayuBio",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "VayuBio",
+    "industry": "Manufacturing",
+    "stage": "Growth",
+    "city": "Jaipur",
+    "foundedYear": 2020,
+    "riskLevel": "High",
+    "roi": 36,
+    "minInvestment": 10,
+    "targetRaise": 155,
+    "raisedSoFar": 109,
+    "investorCount": 79,
+    "equityOffered": 16,
+    "description": "VayuBio is a growth-stage manufacturing company headquartered in Chandigarh, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Expanding to 3 new states this fiscal year",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2022,
+        "revenue": 71,
+        "profit": 16,
+        "valuation": 355
+      },
+      {
+        "year": 2023,
+        "revenue": 97,
+        "profit": 2,
+        "valuation": 778
+      },
+      {
+        "year": 2024,
+        "revenue": 145,
+        "profit": -13,
+        "valuation": 1159
+      },
+      {
+        "year": 2025,
+        "revenue": 222,
+        "profit": 13,
+        "valuation": 2217
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 35
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 42
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 38
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 48
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-03-10T00:00:00.000Z"
+  },
+  {
+    "id": "deal-002",
+    "companyName": "NovaGroup",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "NovaGroup",
+    "industry": "SaaS",
+    "stage": "Series A",
+    "city": "Bengaluru",
+    "foundedYear": 2016,
+    "riskLevel": "Medium",
+    "roi": 26,
+    "minInvestment": 1,
+    "targetRaise": 646,
+    "raisedSoFar": 426,
+    "investorCount": 102,
+    "equityOffered": 16,
+    "description": "NovaGroup is a series a-stage saas company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Founding team from IIT / IIM background",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 379,
+        "profit": 8,
+        "valuation": 3032
+      },
+      {
+        "year": 2019,
+        "revenue": 542,
+        "profit": 108,
+        "valuation": 4878
+      },
+      {
+        "year": 2020,
+        "revenue": 829,
+        "profit": 232,
+        "valuation": 6634
+      },
+      {
+        "year": 2021,
+        "revenue": 1219,
+        "profit": 24,
+        "valuation": 10971
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 17
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-06-11T00:00:00.000Z"
+  },
+  {
+    "id": "deal-003",
+    "companyName": "BharatRobotics",
+    "tagline": "Vernacular-first learning for tier 2 and tier 3 India.",
+    "logoSeed": "BharatRobotics",
+    "industry": "EdTech",
+    "stage": "Growth",
+    "city": "Hyderabad",
+    "foundedYear": 2018,
+    "riskLevel": "Medium",
+    "roi": 21,
+    "minInvestment": 10,
+    "targetRaise": 421,
+    "raisedSoFar": 76,
+    "investorCount": 70,
+    "equityOffered": 10,
+    "description": "BharatRobotics is a growth-stage edtech company headquartered in Chennai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strategic tie-up with a PSU distribution network",
+      "Expanding to 3 new states this fiscal year",
+      "Strong repeat-purchase / retention metrics"
+    ],
+    "financials": [
+      {
+        "year": 2020,
+        "revenue": 41,
+        "profit": 0,
+        "valuation": 328
+      },
+      {
+        "year": 2021,
+        "revenue": 63,
+        "profit": -3,
+        "valuation": 314
+      },
+      {
+        "year": 2022,
+        "revenue": 75,
+        "profit": 16,
+        "valuation": 597
+      },
+      {
+        "year": 2023,
+        "revenue": 107,
+        "profit": 22,
+        "valuation": 1281
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 22
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 22
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 18
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-08-27T00:00:00.000Z"
+  },
+  {
+    "id": "deal-004",
+    "companyName": "UdayBio",
+    "tagline": "Quick-commerce for Bharat's non-metro shopper.",
+    "logoSeed": "UdayBio",
+    "industry": "E-commerce",
+    "stage": "Growth",
+    "city": "Jaipur",
+    "foundedYear": 2021,
+    "riskLevel": "Medium",
+    "roi": 19,
+    "minInvestment": 5,
+    "targetRaise": 1604,
+    "raisedSoFar": 914,
+    "investorCount": 154,
+    "equityOffered": 8,
+    "description": "UdayBio is a growth-stage e-commerce company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Founding team from IIT / IIM background",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2023,
+        "revenue": 263,
+        "profit": -21,
+        "valuation": 1841
+      },
+      {
+        "year": 2024,
+        "revenue": 350,
+        "profit": -7,
+        "valuation": 3848
+      },
+      {
+        "year": 2025,
+        "revenue": 556,
+        "profit": -56,
+        "valuation": 4449
+      },
+      {
+        "year": 2026,
+        "revenue": 823,
+        "profit": 206,
+        "valuation": 7408
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 18
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 18
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 25
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-23T00:00:00.000Z"
+  },
+  {
+    "id": "deal-005",
+    "companyName": "SundarMobility",
+    "tagline": "Vernacular-first learning for tier 2 and tier 3 India.",
+    "logoSeed": "SundarMobility",
+    "industry": "EdTech",
+    "stage": "Series B",
+    "city": "Delhi NCR",
+    "foundedYear": 2016,
+    "riskLevel": "Low",
+    "roi": 9,
+    "minInvestment": 5,
+    "targetRaise": 613,
+    "raisedSoFar": 294,
+    "investorCount": 199,
+    "equityOffered": 9,
+    "description": "SundarMobility is a series b-stage edtech company headquartered in Delhi NCR, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Expanding to 3 new states this fiscal year",
+      "Strong repeat-purchase / retention metrics",
+      "Zero customer churn in enterprise segment"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 331,
+        "profit": 53,
+        "valuation": 1986
+      },
+      {
+        "year": 2019,
+        "revenue": 536,
+        "profit": 5,
+        "valuation": 4826
+      },
+      {
+        "year": 2020,
+        "revenue": 670,
+        "profit": -60,
+        "valuation": 3351
+      },
+      {
+        "year": 2021,
+        "revenue": 965,
+        "profit": 19,
+        "valuation": 6756
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 9
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 11
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 4
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 6
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-09-09T00:00:00.000Z"
+  },
+  {
+    "id": "deal-006",
+    "companyName": "VerveEnergy",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "VerveEnergy",
+    "industry": "SaaS",
+    "stage": "Series B",
+    "city": "Bengaluru",
+    "foundedYear": 2022,
+    "riskLevel": "Low",
+    "roi": 14,
+    "minInvestment": 25,
+    "targetRaise": 1596,
+    "raisedSoFar": 1229,
+    "investorCount": 94,
+    "equityOffered": 19,
+    "description": "VerveEnergy is a series b-stage saas company headquartered in Jaipur, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Zero customer churn in enterprise segment",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 109,
+        "profit": 24,
+        "valuation": 654
+      },
+      {
+        "year": 2025,
+        "revenue": 147,
+        "profit": 40,
+        "valuation": 589
+      },
+      {
+        "year": 2026,
+        "revenue": 190,
+        "profit": 6,
+        "valuation": 2278
+      },
+      {
+        "year": 2027,
+        "revenue": 287,
+        "profit": 17,
+        "valuation": 1720
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 13
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 11
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "deal-007",
+    "companyName": "SetuLabs",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "SetuLabs",
+    "industry": "Media & Entertainment",
+    "stage": "Series A",
+    "city": "Jaipur",
+    "foundedYear": 2022,
+    "riskLevel": "High",
+    "roi": 41,
+    "minInvestment": 1,
+    "targetRaise": 1911,
+    "raisedSoFar": 631,
+    "investorCount": 63,
+    "equityOffered": 9,
+    "description": "SetuLabs is a series a-stage media & entertainment company headquartered in Chennai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Backed by marquee angel investors",
+      "Expanding to 3 new states this fiscal year"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 126,
+        "profit": 5,
+        "valuation": 630
+      },
+      {
+        "year": 2025,
+        "revenue": 208,
+        "profit": 27,
+        "valuation": 1040
+      },
+      {
+        "year": 2026,
+        "revenue": 258,
+        "profit": 64,
+        "valuation": 2578
+      },
+      {
+        "year": 2027,
+        "revenue": 304,
+        "profit": 52,
+        "valuation": 1825
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 39
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 41
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 39
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 46
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 44
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "deal-008",
+    "companyName": "NimbusSystems",
+    "tagline": "Vernacular-first learning for tier 2 and tier 3 India.",
+    "logoSeed": "NimbusSystems",
+    "industry": "EdTech",
+    "stage": "Growth",
+    "city": "Pune",
+    "foundedYear": 2019,
+    "riskLevel": "Medium",
+    "roi": 24,
+    "minInvestment": 2,
+    "targetRaise": 358,
+    "raisedSoFar": 118,
+    "investorCount": 162,
+    "equityOffered": 7,
+    "description": "NimbusSystems is a growth-stage edtech company headquartered in Delhi NCR, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Backed by marquee angel investors",
+      "Profitable at unit-economics level",
+      "Zero customer churn in enterprise segment"
+    ],
+    "financials": [
+      {
+        "year": 2021,
+        "revenue": 387,
+        "profit": 50,
+        "valuation": 3870
+      },
+      {
+        "year": 2022,
+        "revenue": 600,
+        "profit": 114,
+        "valuation": 5999
+      },
+      {
+        "year": 2023,
+        "revenue": 864,
+        "profit": 69,
+        "valuation": 6046
+      },
+      {
+        "year": 2024,
+        "revenue": 1365,
+        "profit": -55,
+        "valuation": 6824
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 22
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 23
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 29
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 15
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-10-24T00:00:00.000Z"
+  },
+  {
+    "id": "deal-009",
+    "companyName": "LokaMedia",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "LokaMedia",
+    "industry": "HealthTech",
+    "stage": "Series B",
+    "city": "Chandigarh",
+    "foundedYear": 2022,
+    "riskLevel": "Low",
+    "roi": 14,
+    "minInvestment": 10,
+    "targetRaise": 871,
+    "raisedSoFar": 314,
+    "investorCount": 176,
+    "equityOffered": 3,
+    "description": "LokaMedia is a series b-stage healthtech company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Strategic tie-up with a PSU distribution network",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 208,
+        "profit": -17,
+        "valuation": 1872
+      },
+      {
+        "year": 2025,
+        "revenue": 239,
+        "profit": 55,
+        "valuation": 2870
+      },
+      {
+        "year": 2026,
+        "revenue": 378,
+        "profit": 15,
+        "valuation": 3401
+      },
+      {
+        "year": 2027,
+        "revenue": 563,
+        "profit": 158,
+        "valuation": 3379
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 8
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-01-04T00:00:00.000Z"
+  },
+  {
+    "id": "deal-010",
+    "companyName": "KavachFarms",
+    "tagline": "Middle-mile freight, optimised by machine learning.",
+    "logoSeed": "KavachFarms",
+    "industry": "Logistics",
+    "stage": "Growth",
+    "city": "Delhi NCR",
+    "foundedYear": 2019,
+    "riskLevel": "High",
+    "roi": 27,
+    "minInvestment": 25,
+    "targetRaise": 1888,
+    "raisedSoFar": 680,
+    "investorCount": 143,
+    "equityOffered": 7,
+    "description": "KavachFarms is a growth-stage logistics company headquartered in Chennai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Government scheme empanelment secured",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2021,
+        "revenue": 200,
+        "profit": -6,
+        "valuation": 2400
+      },
+      {
+        "year": 2022,
+        "revenue": 302,
+        "profit": 76,
+        "valuation": 3624
+      },
+      {
+        "year": 2023,
+        "revenue": 350,
+        "profit": -18,
+        "valuation": 3854
+      },
+      {
+        "year": 2024,
+        "revenue": 480,
+        "profit": 0,
+        "valuation": 2400
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 25
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 42
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-09-14T00:00:00.000Z"
+  },
+  {
+    "id": "deal-011",
+    "companyName": "AarogyaNetworks",
+    "tagline": "Data-driven yield optimisation for smallholder farmers.",
+    "logoSeed": "AarogyaNetworks",
+    "industry": "AgriTech",
+    "stage": "Series C",
+    "city": "Ahmedabad",
+    "foundedYear": 2022,
+    "riskLevel": "High",
+    "roi": 27,
+    "minInvestment": 10,
+    "targetRaise": 695,
+    "raisedSoFar": 389,
+    "investorCount": 93,
+    "equityOffered": 17,
+    "description": "AarogyaNetworks is a series c-stage agritech company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "3x YoY revenue growth for 2 consecutive years",
+      "Strong repeat-purchase / retention metrics"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 327,
+        "profit": 26,
+        "valuation": 1962
+      },
+      {
+        "year": 2025,
+        "revenue": 471,
+        "profit": 66,
+        "valuation": 3296
+      },
+      {
+        "year": 2026,
+        "revenue": 607,
+        "profit": 103,
+        "valuation": 4859
+      },
+      {
+        "year": 2027,
+        "revenue": 972,
+        "profit": -29,
+        "valuation": 5831
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 29
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 36
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 29
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 18
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-01-11T00:00:00.000Z"
+  },
+  {
+    "id": "deal-012",
+    "companyName": "PixelRobotics",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "PixelRobotics",
+    "industry": "HealthTech",
+    "stage": "Growth",
+    "city": "Chennai",
+    "foundedYear": 2022,
+    "riskLevel": "Low",
+    "roi": 8,
+    "minInvestment": 1,
+    "targetRaise": 1007,
+    "raisedSoFar": 151,
+    "investorCount": 179,
+    "equityOffered": 10,
+    "description": "PixelRobotics is a growth-stage healthtech company headquartered in Delhi NCR, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "Backed by marquee angel investors",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 115,
+        "profit": 6,
+        "valuation": 1380
+      },
+      {
+        "year": 2025,
+        "revenue": 190,
+        "profit": 4,
+        "valuation": 759
+      },
+      {
+        "year": 2026,
+        "revenue": 241,
+        "profit": 7,
+        "valuation": 1205
+      },
+      {
+        "year": 2027,
+        "revenue": 381,
+        "profit": 91,
+        "valuation": 3427
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 7
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 8
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 13
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 5
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-01-07T00:00:00.000Z"
+  },
+  {
+    "id": "deal-013",
+    "companyName": "VidyaCloud",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "VidyaCloud",
+    "industry": "Manufacturing",
+    "stage": "Growth",
+    "city": "Chennai",
+    "foundedYear": 2022,
+    "riskLevel": "Medium",
+    "roi": 15,
+    "minInvestment": 2,
+    "targetRaise": 397,
+    "raisedSoFar": 60,
+    "investorCount": 18,
+    "equityOffered": 10,
+    "description": "VidyaCloud is a growth-stage manufacturing company headquartered in Jaipur, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Government scheme empanelment secured",
+      "Profitable at unit-economics level",
+      "Expanding to 3 new states this fiscal year"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 262,
+        "profit": 66,
+        "valuation": 1048
+      },
+      {
+        "year": 2025,
+        "revenue": 430,
+        "profit": 47,
+        "valuation": 3008
+      },
+      {
+        "year": 2026,
+        "revenue": 666,
+        "profit": -40,
+        "valuation": 3330
+      },
+      {
+        "year": 2027,
+        "revenue": 813,
+        "profit": 228,
+        "valuation": 8125
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 8
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 15
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-12-16T00:00:00.000Z"
+  },
+  {
+    "id": "deal-014",
+    "companyName": "VerveHealth",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "VerveHealth",
+    "industry": "SaaS",
+    "stage": "Series B",
+    "city": "Chennai",
+    "foundedYear": 2018,
+    "riskLevel": "Medium",
+    "roi": 26,
+    "minInvestment": 2,
+    "targetRaise": 486,
+    "raisedSoFar": 321,
+    "investorCount": 88,
+    "equityOffered": 10,
+    "description": "VerveHealth is a series b-stage saas company headquartered in Delhi NCR, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Expanding to 3 new states this fiscal year",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2020,
+        "revenue": 307,
+        "profit": 58,
+        "valuation": 1842
+      },
+      {
+        "year": 2021,
+        "revenue": 461,
+        "profit": 0,
+        "valuation": 5526
+      },
+      {
+        "year": 2022,
+        "revenue": 695,
+        "profit": -28,
+        "valuation": 2781
+      },
+      {
+        "year": 2023,
+        "revenue": 821,
+        "profit": 197,
+        "valuation": 4103
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 25
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 30
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 26
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-11-09T00:00:00.000Z"
+  },
+  {
+    "id": "deal-015",
+    "companyName": "KisanTechnologies",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "KisanTechnologies",
+    "industry": "Media & Entertainment",
+    "stage": "Series A",
+    "city": "Pune",
+    "foundedYear": 2018,
+    "riskLevel": "Medium",
+    "roi": 14,
+    "minInvestment": 25,
+    "targetRaise": 868,
+    "raisedSoFar": 451,
+    "investorCount": 201,
+    "equityOffered": 8,
+    "description": "KisanTechnologies is a series a-stage media & entertainment company headquartered in Delhi NCR, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Expanding to 3 new states this fiscal year",
+      "Strategic tie-up with a PSU distribution network",
+      "Strong repeat-purchase / retention metrics"
+    ],
+    "financials": [
+      {
+        "year": 2020,
+        "revenue": 371,
+        "profit": 0,
+        "valuation": 2968
+      },
+      {
+        "year": 2021,
+        "revenue": 575,
+        "profit": 98,
+        "valuation": 2300
+      },
+      {
+        "year": 2022,
+        "revenue": 903,
+        "profit": 144,
+        "valuation": 9931
+      },
+      {
+        "year": 2023,
+        "revenue": 1345,
+        "profit": 161,
+        "valuation": 9417
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 29
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-06-06T00:00:00.000Z"
+  },
+  {
+    "id": "deal-016",
+    "companyName": "UrbanGroup",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "UrbanGroup",
+    "industry": "HealthTech",
+    "stage": "Series C",
+    "city": "Mumbai",
+    "foundedYear": 2019,
+    "riskLevel": "Medium",
+    "roi": 25,
+    "minInvestment": 25,
+    "targetRaise": 203,
+    "raisedSoFar": 187,
+    "investorCount": 24,
+    "equityOffered": 8,
+    "description": "UrbanGroup is a series c-stage healthtech company headquartered in Pune, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Government scheme empanelment secured",
+      "Strong repeat-purchase / retention metrics"
+    ],
+    "financials": [
+      {
+        "year": 2021,
+        "revenue": 90,
+        "profit": 25,
+        "valuation": 1080
+      },
+      {
+        "year": 2022,
+        "revenue": 111,
+        "profit": 29,
+        "valuation": 554
+      },
+      {
+        "year": 2023,
+        "revenue": 179,
+        "profit": -2,
+        "valuation": 897
+      },
+      {
+        "year": 2024,
+        "revenue": 265,
+        "profit": 3,
+        "valuation": 1858
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 30
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 22
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-02-18T00:00:00.000Z"
+  },
+  {
+    "id": "deal-017",
+    "companyName": "TrustNetworks",
+    "tagline": "Rebuilding credit access for India's next 500 million users.",
+    "logoSeed": "TrustNetworks",
+    "industry": "Fintech",
+    "stage": "Series B",
+    "city": "Ahmedabad",
+    "foundedYear": 2021,
+    "riskLevel": "High",
+    "roi": 29,
+    "minInvestment": 5,
+    "targetRaise": 543,
+    "raisedSoFar": 81,
+    "investorCount": 11,
+    "equityOffered": 12,
+    "description": "TrustNetworks is a series b-stage fintech company headquartered in Chandigarh, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "3x YoY revenue growth for 2 consecutive years",
+      "Zero customer churn in enterprise segment",
+      "Strong repeat-purchase / retention metrics"
+    ],
+    "financials": [
+      {
+        "year": 2023,
+        "revenue": 107,
+        "profit": 24,
+        "valuation": 642
+      },
+      {
+        "year": 2024,
+        "revenue": 153,
+        "profit": -8,
+        "valuation": 1683
+      },
+      {
+        "year": 2025,
+        "revenue": 200,
+        "profit": 0,
+        "valuation": 1403
+      },
+      {
+        "year": 2026,
+        "revenue": 317,
+        "profit": 44,
+        "valuation": 1900
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 30
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 38
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 39
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 35
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-10-02T00:00:00.000Z"
+  },
+  {
+    "id": "deal-018",
+    "companyName": "TerraAnalytics",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "TerraAnalytics",
+    "industry": "HealthTech",
+    "stage": "Series A",
+    "city": "Ahmedabad",
+    "foundedYear": 2021,
+    "riskLevel": "Low",
+    "roi": 9,
+    "minInvestment": 5,
+    "targetRaise": 1267,
+    "raisedSoFar": 127,
+    "investorCount": 103,
+    "equityOffered": 5,
+    "description": "TerraAnalytics is a series a-stage healthtech company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "3x YoY revenue growth for 2 consecutive years",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2023,
+        "revenue": 371,
+        "profit": -30,
+        "valuation": 4081
+      },
+      {
+        "year": 2024,
+        "revenue": 579,
+        "profit": 41,
+        "valuation": 2315
+      },
+      {
+        "year": 2025,
+        "revenue": 683,
+        "profit": 137,
+        "valuation": 2732
+      },
+      {
+        "year": 2026,
+        "revenue": 977,
+        "profit": 78,
+        "valuation": 5860
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 11
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 18
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 15
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-09-14T00:00:00.000Z"
+  },
+  {
+    "id": "deal-019",
+    "companyName": "NovaFintech",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "NovaFintech",
+    "industry": "Manufacturing",
+    "stage": "Growth",
+    "city": "Hyderabad",
+    "foundedYear": 2022,
+    "riskLevel": "High",
+    "roi": 42,
+    "minInvestment": 25,
+    "targetRaise": 167,
+    "raisedSoFar": 73,
+    "investorCount": 23,
+    "equityOffered": 7,
+    "description": "NovaFintech is a growth-stage manufacturing company headquartered in Chandigarh, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Expanding to 3 new states this fiscal year",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 225,
+        "profit": 45,
+        "valuation": 1125
+      },
+      {
+        "year": 2025,
+        "revenue": 340,
+        "profit": 31,
+        "valuation": 2718
+      },
+      {
+        "year": 2026,
+        "revenue": 537,
+        "profit": 145,
+        "valuation": 2684
+      },
+      {
+        "year": 2027,
+        "revenue": 709,
+        "profit": 92,
+        "valuation": 4960
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 43
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 47
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 47
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 35
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 33
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-07-04T00:00:00.000Z"
+  },
+  {
+    "id": "deal-020",
+    "companyName": "SankalpTechnologies",
+    "tagline": "Middle-mile freight, optimised by machine learning.",
+    "logoSeed": "SankalpTechnologies",
+    "industry": "Logistics",
+    "stage": "Seed",
+    "city": "Mumbai",
+    "foundedYear": 2016,
+    "riskLevel": "High",
+    "roi": 40,
+    "minInvestment": 10,
+    "targetRaise": 1679,
+    "raisedSoFar": 369,
+    "investorCount": 197,
+    "equityOffered": 13,
+    "description": "SankalpTechnologies is a seed-stage logistics company headquartered in Bengaluru, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Founding team from IIT / IIM background",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 266,
+        "profit": -13,
+        "valuation": 2394
+      },
+      {
+        "year": 2019,
+        "revenue": 383,
+        "profit": 61,
+        "valuation": 3447
+      },
+      {
+        "year": 2020,
+        "revenue": 540,
+        "profit": 32,
+        "valuation": 5941
+      },
+      {
+        "year": 2021,
+        "revenue": 789,
+        "profit": 173,
+        "valuation": 9462
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 39
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 39
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 36
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 52
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 34
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-02-03T00:00:00.000Z"
+  },
+  {
+    "id": "deal-021",
+    "companyName": "NovaFintech",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "NovaFintech",
+    "industry": "Media & Entertainment",
+    "stage": "Growth",
+    "city": "Chandigarh",
+    "foundedYear": 2017,
+    "riskLevel": "Low",
+    "roi": 16,
+    "minInvestment": 25,
+    "targetRaise": 1065,
+    "raisedSoFar": 107,
+    "investorCount": 223,
+    "equityOffered": 10,
+    "description": "NovaFintech is a growth-stage media & entertainment company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Strong repeat-purchase / retention metrics",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 276,
+        "profit": -3,
+        "valuation": 1932
+      },
+      {
+        "year": 2020,
+        "revenue": 381,
+        "profit": 107,
+        "valuation": 3809
+      },
+      {
+        "year": 2021,
+        "revenue": 507,
+        "profit": -35,
+        "valuation": 3039
+      },
+      {
+        "year": 2022,
+        "revenue": 811,
+        "profit": 219,
+        "valuation": 6484
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 18
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 25
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-03-14T00:00:00.000Z"
+  },
+  {
+    "id": "deal-022",
+    "companyName": "TerraVentures",
+    "tagline": "Decentralised solar for industrial clusters.",
+    "logoSeed": "TerraVentures",
+    "industry": "CleanEnergy",
+    "stage": "Series B",
+    "city": "Kolkata",
+    "foundedYear": 2017,
+    "riskLevel": "High",
+    "roi": 35,
+    "minInvestment": 25,
+    "targetRaise": 1101,
+    "raisedSoFar": 870,
+    "investorCount": 114,
+    "equityOffered": 17,
+    "description": "TerraVentures is a series b-stage cleanenergy company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Backed by marquee angel investors",
+      "Strong repeat-purchase / retention metrics",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 62,
+        "profit": 12,
+        "valuation": 744
+      },
+      {
+        "year": 2020,
+        "revenue": 73,
+        "profit": 10,
+        "valuation": 870
+      },
+      {
+        "year": 2021,
+        "revenue": 118,
+        "profit": 19,
+        "valuation": 1064
+      },
+      {
+        "year": 2022,
+        "revenue": 174,
+        "profit": 2,
+        "valuation": 1217
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 36
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 41
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 39
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 47
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 50
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-08-15T00:00:00.000Z"
+  },
+  {
+    "id": "deal-023",
+    "companyName": "SwiftGroup",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "SwiftGroup",
+    "industry": "Manufacturing",
+    "stage": "Seed",
+    "city": "Chennai",
+    "foundedYear": 2016,
+    "riskLevel": "Low",
+    "roi": 14,
+    "minInvestment": 1,
+    "targetRaise": 806,
+    "raisedSoFar": 314,
+    "investorCount": 33,
+    "equityOffered": 20,
+    "description": "SwiftGroup is a seed-stage manufacturing company headquartered in Chandigarh, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Backed by marquee angel investors",
+      "Patent-pending core technology",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 181,
+        "profit": -14,
+        "valuation": 1991
+      },
+      {
+        "year": 2019,
+        "revenue": 224,
+        "profit": -2,
+        "valuation": 1796
+      },
+      {
+        "year": 2020,
+        "revenue": 339,
+        "profit": -31,
+        "valuation": 4067
+      },
+      {
+        "year": 2021,
+        "revenue": 529,
+        "profit": 132,
+        "valuation": 4758
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 13
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 23
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 14
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 17
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-22T00:00:00.000Z"
+  },
+  {
+    "id": "deal-024",
+    "companyName": "VrikshaSystems",
+    "tagline": "Rebuilding credit access for India's next 500 million users.",
+    "logoSeed": "VrikshaSystems",
+    "industry": "Fintech",
+    "stage": "Seed",
+    "city": "Chennai",
+    "foundedYear": 2020,
+    "riskLevel": "Medium",
+    "roi": 22,
+    "minInvestment": 1,
+    "targetRaise": 1075,
+    "raisedSoFar": 968,
+    "investorCount": 184,
+    "equityOffered": 10,
+    "description": "VrikshaSystems is a seed-stage fintech company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Founding team from IIT / IIM background",
+      "Government scheme empanelment secured",
+      "Backed by marquee angel investors"
+    ],
+    "financials": [
+      {
+        "year": 2022,
+        "revenue": 243,
+        "profit": -10,
+        "valuation": 1701
+      },
+      {
+        "year": 2023,
+        "revenue": 299,
+        "profit": 51,
+        "valuation": 2092
+      },
+      {
+        "year": 2024,
+        "revenue": 362,
+        "profit": 101,
+        "valuation": 4340
+      },
+      {
+        "year": 2025,
+        "revenue": 438,
+        "profit": 35,
+        "valuation": 3501
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 23
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 34
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 31
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-05-18T00:00:00.000Z"
+  },
+  {
+    "id": "deal-025",
+    "companyName": "NovaCloud",
+    "tagline": "Vernacular-first learning for tier 2 and tier 3 India.",
+    "logoSeed": "NovaCloud",
+    "industry": "EdTech",
+    "stage": "Series A",
+    "city": "Jaipur",
+    "foundedYear": 2016,
+    "riskLevel": "Medium",
+    "roi": 18,
+    "minInvestment": 2,
+    "targetRaise": 1869,
+    "raisedSoFar": 1159,
+    "investorCount": 159,
+    "equityOffered": 6,
+    "description": "NovaCloud is a series a-stage edtech company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Backed by marquee angel investors",
+      "Patent-pending core technology",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 142,
+        "profit": 1,
+        "valuation": 1420
+      },
+      {
+        "year": 2019,
+        "revenue": 203,
+        "profit": 39,
+        "valuation": 2234
+      },
+      {
+        "year": 2020,
+        "revenue": 301,
+        "profit": 63,
+        "valuation": 1202
+      },
+      {
+        "year": 2021,
+        "revenue": 490,
+        "profit": 113,
+        "valuation": 4409
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 14
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 24
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-12-05T00:00:00.000Z"
+  },
+  {
+    "id": "deal-026",
+    "companyName": "PrakashRobotics",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "PrakashRobotics",
+    "industry": "HealthTech",
+    "stage": "Series B",
+    "city": "Pune",
+    "foundedYear": 2016,
+    "riskLevel": "High",
+    "roi": 36,
+    "minInvestment": 5,
+    "targetRaise": 686,
+    "raisedSoFar": 110,
+    "investorCount": 92,
+    "equityOffered": 3,
+    "description": "PrakashRobotics is a series b-stage healthtech company headquartered in Bengaluru, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "3x YoY revenue growth for 2 consecutive years",
+      "Backed by marquee angel investors",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 391,
+        "profit": -35,
+        "valuation": 1564
+      },
+      {
+        "year": 2019,
+        "revenue": 606,
+        "profit": 0,
+        "valuation": 2424
+      },
+      {
+        "year": 2020,
+        "revenue": 788,
+        "profit": 87,
+        "valuation": 3151
+      },
+      {
+        "year": 2021,
+        "revenue": 1229,
+        "profit": 25,
+        "valuation": 13520
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 38
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 42
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 38
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 38
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 51
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "deal-027",
+    "companyName": "VerveEnergy",
+    "tagline": "Quick-commerce for Bharat's non-metro shopper.",
+    "logoSeed": "VerveEnergy",
+    "industry": "E-commerce",
+    "stage": "Series C",
+    "city": "Bengaluru",
+    "foundedYear": 2015,
+    "riskLevel": "High",
+    "roi": 38,
+    "minInvestment": 1,
+    "targetRaise": 160,
+    "raisedSoFar": 40,
+    "investorCount": 85,
+    "equityOffered": 16,
+    "description": "VerveEnergy is a series c-stage e-commerce company headquartered in Jaipur, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Expanding to 3 new states this fiscal year",
+      "3x YoY revenue growth for 2 consecutive years",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 51,
+        "profit": 1,
+        "valuation": 408
+      },
+      {
+        "year": 2018,
+        "revenue": 67,
+        "profit": -7,
+        "valuation": 539
+      },
+      {
+        "year": 2019,
+        "revenue": 104,
+        "profit": 26,
+        "valuation": 829
+      },
+      {
+        "year": 2020,
+        "revenue": 153,
+        "profit": 9,
+        "valuation": 1688
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 38
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 44
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 33
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 40
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 53
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-07-10T00:00:00.000Z"
+  },
+  {
+    "id": "deal-028",
+    "companyName": "TrustMedia",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "TrustMedia",
+    "industry": "SaaS",
+    "stage": "Series C",
+    "city": "Ahmedabad",
+    "foundedYear": 2023,
+    "riskLevel": "High",
+    "roi": 38,
+    "minInvestment": 2,
+    "targetRaise": 1331,
+    "raisedSoFar": 373,
+    "investorCount": 18,
+    "equityOffered": 3,
+    "description": "TrustMedia is a series c-stage saas company headquartered in Delhi NCR, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Government scheme empanelment secured",
+      "Patent-pending core technology",
+      "Strong repeat-purchase / retention metrics"
+    ],
+    "financials": [
+      {
+        "year": 2025,
+        "revenue": 242,
+        "profit": 56,
+        "valuation": 968
+      },
+      {
+        "year": 2026,
+        "revenue": 363,
+        "profit": 7,
+        "valuation": 3267
+      },
+      {
+        "year": 2027,
+        "revenue": 490,
+        "profit": 93,
+        "valuation": 4901
+      },
+      {
+        "year": 2028,
+        "revenue": 740,
+        "profit": 104,
+        "valuation": 6660
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 36
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 38
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 45
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 48
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 35
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-10-14T00:00:00.000Z"
+  },
+  {
+    "id": "deal-029",
+    "companyName": "UrbanMobility",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "UrbanMobility",
+    "industry": "Media & Entertainment",
+    "stage": "Growth",
+    "city": "Chandigarh",
+    "foundedYear": 2019,
+    "riskLevel": "Low",
+    "roi": 15,
+    "minInvestment": 1,
+    "targetRaise": 183,
+    "raisedSoFar": 134,
+    "investorCount": 237,
+    "equityOffered": 8,
+    "description": "UrbanMobility is a growth-stage media & entertainment company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Founding team from IIT / IIM background",
+      "Expanding to 3 new states this fiscal year"
+    ],
+    "financials": [
+      {
+        "year": 2021,
+        "revenue": 294,
+        "profit": 26,
+        "valuation": 1176
+      },
+      {
+        "year": 2022,
+        "revenue": 459,
+        "profit": -14,
+        "valuation": 3669
+      },
+      {
+        "year": 2023,
+        "revenue": 697,
+        "profit": 28,
+        "valuation": 6971
+      },
+      {
+        "year": 2024,
+        "revenue": 830,
+        "profit": 50,
+        "valuation": 9125
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 14
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 22
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 27
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-11-22T00:00:00.000Z"
+  },
+  {
+    "id": "deal-030",
+    "companyName": "VayuFarms",
+    "tagline": "Rebuilding credit access for India's next 500 million users.",
+    "logoSeed": "VayuFarms",
+    "industry": "Fintech",
+    "stage": "Series B",
+    "city": "Jaipur",
+    "foundedYear": 2015,
+    "riskLevel": "Medium",
+    "roi": 21,
+    "minInvestment": 5,
+    "targetRaise": 1082,
+    "raisedSoFar": 271,
+    "investorCount": 25,
+    "equityOffered": 14,
+    "description": "VayuFarms is a series b-stage fintech company headquartered in Chennai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Government scheme empanelment secured",
+      "Expanding to 3 new states this fiscal year",
+      "Strong repeat-purchase / retention metrics"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 239,
+        "profit": -19,
+        "valuation": 2868
+      },
+      {
+        "year": 2018,
+        "revenue": 325,
+        "profit": 13,
+        "valuation": 2275
+      },
+      {
+        "year": 2019,
+        "revenue": 491,
+        "profit": 5,
+        "valuation": 2454
+      },
+      {
+        "year": 2020,
+        "revenue": 790,
+        "profit": -8,
+        "valuation": 8692
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 23
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 36
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-28T00:00:00.000Z"
+  },
+  {
+    "id": "deal-031",
+    "companyName": "NimbusCloud",
+    "tagline": "Decentralised solar for industrial clusters.",
+    "logoSeed": "NimbusCloud",
+    "industry": "CleanEnergy",
+    "stage": "Growth",
+    "city": "Kolkata",
+    "foundedYear": 2015,
+    "riskLevel": "High",
+    "roi": 45,
+    "minInvestment": 5,
+    "targetRaise": 301,
+    "raisedSoFar": 39,
+    "investorCount": 28,
+    "equityOffered": 14,
+    "description": "NimbusCloud is a growth-stage cleanenergy company headquartered in Ahmedabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Expanding to 3 new states this fiscal year",
+      "Strong repeat-purchase / retention metrics"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 141,
+        "profit": 30,
+        "valuation": 846
+      },
+      {
+        "year": 2018,
+        "revenue": 223,
+        "profit": 36,
+        "valuation": 2228
+      },
+      {
+        "year": 2019,
+        "revenue": 321,
+        "profit": 90,
+        "valuation": 1283
+      },
+      {
+        "year": 2020,
+        "revenue": 423,
+        "profit": -30,
+        "valuation": 4235
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 46
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 46
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 40
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 50
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 48
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-07-27T00:00:00.000Z"
+  },
+  {
+    "id": "deal-032",
+    "companyName": "KavachSystems",
+    "tagline": "Middle-mile freight, optimised by machine learning.",
+    "logoSeed": "KavachSystems",
+    "industry": "Logistics",
+    "stage": "Series C",
+    "city": "Chennai",
+    "foundedYear": 2020,
+    "riskLevel": "Low",
+    "roi": 14,
+    "minInvestment": 2,
+    "targetRaise": 109,
+    "raisedSoFar": 82,
+    "investorCount": 91,
+    "equityOffered": 5,
+    "description": "KavachSystems is a series c-stage logistics company headquartered in Ahmedabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Strong repeat-purchase / retention metrics",
+      "Zero customer churn in enterprise segment"
+    ],
+    "financials": [
+      {
+        "year": 2022,
+        "revenue": 47,
+        "profit": 10,
+        "valuation": 188
+      },
+      {
+        "year": 2023,
+        "revenue": 70,
+        "profit": 4,
+        "valuation": 556
+      },
+      {
+        "year": 2024,
+        "revenue": 95,
+        "profit": 24,
+        "valuation": 378
+      },
+      {
+        "year": 2025,
+        "revenue": 109,
+        "profit": 17,
+        "valuation": 544
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 23
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 14
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 26
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-02-27T00:00:00.000Z"
+  },
+  {
+    "id": "deal-033",
+    "companyName": "NovaFintech",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "NovaFintech",
+    "industry": "Media & Entertainment",
+    "stage": "Growth",
+    "city": "Bengaluru",
+    "foundedYear": 2023,
+    "riskLevel": "Low",
+    "roi": 14,
+    "minInvestment": 10,
+    "targetRaise": 754,
+    "raisedSoFar": 294,
+    "investorCount": 103,
+    "equityOffered": 13,
+    "description": "NovaFintech is a growth-stage media & entertainment company headquartered in Chennai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "Expanding to 3 new states this fiscal year",
+      "Backed by marquee angel investors"
+    ],
+    "financials": [
+      {
+        "year": 2025,
+        "revenue": 204,
+        "profit": 43,
+        "valuation": 1224
+      },
+      {
+        "year": 2026,
+        "revenue": 314,
+        "profit": -13,
+        "valuation": 2513
+      },
+      {
+        "year": 2027,
+        "revenue": 424,
+        "profit": 42,
+        "valuation": 3817
+      },
+      {
+        "year": 2028,
+        "revenue": 551,
+        "profit": 17,
+        "valuation": 6616
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 29
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-12-02T00:00:00.000Z"
+  },
+  {
+    "id": "deal-034",
+    "companyName": "SetuRobotics",
+    "tagline": "Middle-mile freight, optimised by machine learning.",
+    "logoSeed": "SetuRobotics",
+    "industry": "Logistics",
+    "stage": "Series B",
+    "city": "Kolkata",
+    "foundedYear": 2023,
+    "riskLevel": "Low",
+    "roi": 13,
+    "minInvestment": 2,
+    "targetRaise": 1543,
+    "raisedSoFar": 802,
+    "investorCount": 51,
+    "equityOffered": 9,
+    "description": "SetuRobotics is a series b-stage logistics company headquartered in Bengaluru, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Founding team from IIT / IIM background",
+      "Government scheme empanelment secured",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2025,
+        "revenue": 377,
+        "profit": 49,
+        "valuation": 4147
+      },
+      {
+        "year": 2026,
+        "revenue": 516,
+        "profit": 10,
+        "valuation": 4132
+      },
+      {
+        "year": 2027,
+        "revenue": 754,
+        "profit": 173,
+        "valuation": 6787
+      },
+      {
+        "year": 2028,
+        "revenue": 958,
+        "profit": 134,
+        "valuation": 6704
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 9
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 11
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 19
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-10-26T00:00:00.000Z"
+  },
+  {
+    "id": "deal-035",
+    "companyName": "DhanVentures",
+    "tagline": "Middle-mile freight, optimised by machine learning.",
+    "logoSeed": "DhanVentures",
+    "industry": "Logistics",
+    "stage": "Seed",
+    "city": "Kolkata",
+    "foundedYear": 2015,
+    "riskLevel": "Medium",
+    "roi": 25,
+    "minInvestment": 5,
+    "targetRaise": 1277,
+    "raisedSoFar": 741,
+    "investorCount": 228,
+    "equityOffered": 3,
+    "description": "DhanVentures is a seed-stage logistics company headquartered in Chandigarh, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Expanding to 3 new states this fiscal year",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 191,
+        "profit": 17,
+        "valuation": 1337
+      },
+      {
+        "year": 2018,
+        "revenue": 292,
+        "profit": 12,
+        "valuation": 2046
+      },
+      {
+        "year": 2019,
+        "revenue": 450,
+        "profit": 54,
+        "valuation": 4950
+      },
+      {
+        "year": 2020,
+        "revenue": 522,
+        "profit": 42,
+        "valuation": 2088
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 29
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 37
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 19
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-11-13T00:00:00.000Z"
+  },
+  {
+    "id": "deal-036",
+    "companyName": "SundarCloud",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "SundarCloud",
+    "industry": "SaaS",
+    "stage": "Series A",
+    "city": "Hyderabad",
+    "foundedYear": 2016,
+    "riskLevel": "Medium",
+    "roi": 19,
+    "minInvestment": 1,
+    "targetRaise": 1938,
+    "raisedSoFar": 329,
+    "investorCount": 181,
+    "equityOffered": 2,
+    "description": "SundarCloud is a series a-stage saas company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Zero customer churn in enterprise segment",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 104,
+        "profit": -9,
+        "valuation": 1144
+      },
+      {
+        "year": 2019,
+        "revenue": 165,
+        "profit": 35,
+        "valuation": 1158
+      },
+      {
+        "year": 2020,
+        "revenue": 207,
+        "profit": -19,
+        "valuation": 827
+      },
+      {
+        "year": 2021,
+        "revenue": 263,
+        "profit": -13,
+        "valuation": 2100
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 14
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 22
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-11-25T00:00:00.000Z"
+  },
+  {
+    "id": "deal-037",
+    "companyName": "KavachFoods",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "KavachFoods",
+    "industry": "SaaS",
+    "stage": "Growth",
+    "city": "Bengaluru",
+    "foundedYear": 2015,
+    "riskLevel": "High",
+    "roi": 22,
+    "minInvestment": 1,
+    "targetRaise": 1967,
+    "raisedSoFar": 197,
+    "investorCount": 185,
+    "equityOffered": 17,
+    "description": "KavachFoods is a growth-stage saas company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Founding team from IIT / IIM background",
+      "Government scheme empanelment secured",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 347,
+        "profit": 52,
+        "valuation": 1388
+      },
+      {
+        "year": 2018,
+        "revenue": 559,
+        "profit": 73,
+        "valuation": 4469
+      },
+      {
+        "year": 2019,
+        "revenue": 911,
+        "profit": 191,
+        "valuation": 9106
+      },
+      {
+        "year": 2020,
+        "revenue": 1430,
+        "profit": 229,
+        "valuation": 5719
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 32
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 13
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-09-24T00:00:00.000Z"
+  },
+  {
+    "id": "deal-038",
+    "companyName": "SetuFintech",
+    "tagline": "Decentralised solar for industrial clusters.",
+    "logoSeed": "SetuFintech",
+    "industry": "CleanEnergy",
+    "stage": "Growth",
+    "city": "Mumbai",
+    "foundedYear": 2015,
+    "riskLevel": "High",
+    "roi": 34,
+    "minInvestment": 1,
+    "targetRaise": 598,
+    "raisedSoFar": 347,
+    "investorCount": 34,
+    "equityOffered": 8,
+    "description": "SetuFintech is a growth-stage cleanenergy company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Expanding to 3 new states this fiscal year",
+      "Strategic tie-up with a PSU distribution network",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 122,
+        "profit": 28,
+        "valuation": 1220
+      },
+      {
+        "year": 2018,
+        "revenue": 172,
+        "profit": 14,
+        "valuation": 1376
+      },
+      {
+        "year": 2019,
+        "revenue": 213,
+        "profit": 43,
+        "valuation": 1067
+      },
+      {
+        "year": 2020,
+        "revenue": 303,
+        "profit": 0,
+        "valuation": 1514
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 37
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 33
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 41
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 44
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 31
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-08-20T00:00:00.000Z"
+  },
+  {
+    "id": "deal-039",
+    "companyName": "SundarFarms",
+    "tagline": "Middle-mile freight, optimised by machine learning.",
+    "logoSeed": "SundarFarms",
+    "industry": "Logistics",
+    "stage": "Growth",
+    "city": "Delhi NCR",
+    "foundedYear": 2016,
+    "riskLevel": "High",
+    "roi": 27,
+    "minInvestment": 1,
+    "targetRaise": 1547,
+    "raisedSoFar": 1253,
+    "investorCount": 119,
+    "equityOffered": 8,
+    "description": "SundarFarms is a growth-stage logistics company headquartered in Jaipur, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Strong repeat-purchase / retention metrics",
+      "Expanding to 3 new states this fiscal year"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 99,
+        "profit": -7,
+        "valuation": 396
+      },
+      {
+        "year": 2019,
+        "revenue": 118,
+        "profit": 21,
+        "valuation": 707
+      },
+      {
+        "year": 2020,
+        "revenue": 168,
+        "profit": -2,
+        "valuation": 674
+      },
+      {
+        "year": 2021,
+        "revenue": 207,
+        "profit": -21,
+        "valuation": 2487
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 29
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 18
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-08-28T00:00:00.000Z"
+  },
+  {
+    "id": "deal-040",
+    "companyName": "LokaSystems",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "LokaSystems",
+    "industry": "HealthTech",
+    "stage": "Series A",
+    "city": "Kolkata",
+    "foundedYear": 2020,
+    "riskLevel": "High",
+    "roi": 37,
+    "minInvestment": 2,
+    "targetRaise": 436,
+    "raisedSoFar": 414,
+    "investorCount": 55,
+    "equityOffered": 5,
+    "description": "LokaSystems is a series a-stage healthtech company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Profitable at unit-economics level",
+      "Expanding to 3 new states this fiscal year"
+    ],
+    "financials": [
+      {
+        "year": 2022,
+        "revenue": 211,
+        "profit": 6,
+        "valuation": 1477
+      },
+      {
+        "year": 2023,
+        "revenue": 310,
+        "profit": 84,
+        "valuation": 3722
+      },
+      {
+        "year": 2024,
+        "revenue": 506,
+        "profit": -5,
+        "valuation": 5056
+      },
+      {
+        "year": 2025,
+        "revenue": 718,
+        "profit": 101,
+        "valuation": 2872
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 39
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 38
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 35
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 32
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 34
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-12-04T00:00:00.000Z"
+  },
+  {
+    "id": "deal-041",
+    "companyName": "VayuSystems",
+    "tagline": "Data-driven yield optimisation for smallholder farmers.",
+    "logoSeed": "VayuSystems",
+    "industry": "AgriTech",
+    "stage": "Series B",
+    "city": "Kolkata",
+    "foundedYear": 2015,
+    "riskLevel": "Low",
+    "roi": 10,
+    "minInvestment": 10,
+    "targetRaise": 835,
+    "raisedSoFar": 200,
+    "investorCount": 85,
+    "equityOffered": 10,
+    "description": "VayuSystems is a series b-stage agritech company headquartered in Ahmedabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Strategic tie-up with a PSU distribution network",
+      "Patent-pending core technology"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 381,
+        "profit": 11,
+        "valuation": 1905
+      },
+      {
+        "year": 2018,
+        "revenue": 507,
+        "profit": -35,
+        "valuation": 3040
+      },
+      {
+        "year": 2019,
+        "revenue": 608,
+        "profit": 170,
+        "valuation": 6081
+      },
+      {
+        "year": 2020,
+        "revenue": 991,
+        "profit": 59,
+        "valuation": 10903
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 9
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 16
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "deal-042",
+    "companyName": "UrbanLabs",
+    "tagline": "Vernacular-first learning for tier 2 and tier 3 India.",
+    "logoSeed": "UrbanLabs",
+    "industry": "EdTech",
+    "stage": "Series A",
+    "city": "Chandigarh",
+    "foundedYear": 2018,
+    "riskLevel": "High",
+    "roi": 33,
+    "minInvestment": 1,
+    "targetRaise": 392,
+    "raisedSoFar": 372,
+    "investorCount": 17,
+    "equityOffered": 20,
+    "description": "UrbanLabs is a series a-stage edtech company headquartered in Jaipur, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Founding team from IIT / IIM background",
+      "Expanding to 3 new states this fiscal year",
+      "Patent-pending core technology"
+    ],
+    "financials": [
+      {
+        "year": 2020,
+        "revenue": 346,
+        "profit": 24,
+        "valuation": 2422
+      },
+      {
+        "year": 2021,
+        "revenue": 550,
+        "profit": 22,
+        "valuation": 4951
+      },
+      {
+        "year": 2022,
+        "revenue": 880,
+        "profit": 97,
+        "valuation": 10563
+      },
+      {
+        "year": 2023,
+        "revenue": 1215,
+        "profit": 85,
+        "valuation": 12147
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 33
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 35
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 45
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 48
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-07-19T00:00:00.000Z"
+  },
+  {
+    "id": "deal-043",
+    "companyName": "MeridianNetworks",
+    "tagline": "Decentralised solar for industrial clusters.",
+    "logoSeed": "MeridianNetworks",
+    "industry": "CleanEnergy",
+    "stage": "Series A",
+    "city": "Ahmedabad",
+    "foundedYear": 2017,
+    "riskLevel": "Low",
+    "roi": 15,
+    "minInvestment": 2,
+    "targetRaise": 1664,
+    "raisedSoFar": 1398,
+    "investorCount": 235,
+    "equityOffered": 2,
+    "description": "MeridianNetworks is a series a-stage cleanenergy company headquartered in Pune, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Strategic tie-up with a PSU distribution network",
+      "Backed by marquee angel investors"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 127,
+        "profit": -6,
+        "valuation": 762
+      },
+      {
+        "year": 2020,
+        "revenue": 150,
+        "profit": 33,
+        "valuation": 1199
+      },
+      {
+        "year": 2021,
+        "revenue": 177,
+        "profit": 25,
+        "valuation": 884
+      },
+      {
+        "year": 2022,
+        "revenue": 271,
+        "profit": 65,
+        "valuation": 2976
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 11
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 21
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-10-05T00:00:00.000Z"
+  },
+  {
+    "id": "deal-044",
+    "companyName": "PixelRobotics",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "PixelRobotics",
+    "industry": "Manufacturing",
+    "stage": "Growth",
+    "city": "Pune",
+    "foundedYear": 2020,
+    "riskLevel": "Low",
+    "roi": 10,
+    "minInvestment": 10,
+    "targetRaise": 852,
+    "raisedSoFar": 665,
+    "investorCount": 240,
+    "equityOffered": 16,
+    "description": "PixelRobotics is a growth-stage manufacturing company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "3x YoY revenue growth for 2 consecutive years",
+      "Backed by marquee angel investors",
+      "Patent-pending core technology"
+    ],
+    "financials": [
+      {
+        "year": 2022,
+        "revenue": 364,
+        "profit": 18,
+        "valuation": 2548
+      },
+      {
+        "year": 2023,
+        "revenue": 546,
+        "profit": 93,
+        "valuation": 3276
+      },
+      {
+        "year": 2024,
+        "revenue": 890,
+        "profit": 98,
+        "valuation": 8900
+      },
+      {
+        "year": 2025,
+        "revenue": 1335,
+        "profit": 53,
+        "valuation": 9345
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 16
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "deal-045",
+    "companyName": "NovaWorks",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "NovaWorks",
+    "industry": "Manufacturing",
+    "stage": "Growth",
+    "city": "Bengaluru",
+    "foundedYear": 2016,
+    "riskLevel": "Medium",
+    "roi": 22,
+    "minInvestment": 10,
+    "targetRaise": 1238,
+    "raisedSoFar": 1164,
+    "investorCount": 212,
+    "equityOffered": 7,
+    "description": "NovaWorks is a growth-stage manufacturing company headquartered in Ahmedabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "Expanding to 3 new states this fiscal year",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 244,
+        "profit": 20,
+        "valuation": 1464
+      },
+      {
+        "year": 2019,
+        "revenue": 356,
+        "profit": -25,
+        "valuation": 4275
+      },
+      {
+        "year": 2020,
+        "revenue": 517,
+        "profit": 26,
+        "valuation": 2583
+      },
+      {
+        "year": 2021,
+        "revenue": 739,
+        "profit": 155,
+        "valuation": 4432
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 25
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 29
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 28
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-12-13T00:00:00.000Z"
+  },
+  {
+    "id": "deal-046",
+    "companyName": "SwiftCommerce",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "SwiftCommerce",
+    "industry": "Manufacturing",
+    "stage": "Series A",
+    "city": "Chandigarh",
+    "foundedYear": 2017,
+    "riskLevel": "Medium",
+    "roi": 15,
+    "minInvestment": 10,
+    "targetRaise": 611,
+    "raisedSoFar": 79,
+    "investorCount": 110,
+    "equityOffered": 16,
+    "description": "SwiftCommerce is a series a-stage manufacturing company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Backed by marquee angel investors",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 254,
+        "profit": 15,
+        "valuation": 1270
+      },
+      {
+        "year": 2020,
+        "revenue": 368,
+        "profit": 52,
+        "valuation": 2210
+      },
+      {
+        "year": 2021,
+        "revenue": 556,
+        "profit": 11,
+        "valuation": 3893
+      },
+      {
+        "year": 2022,
+        "revenue": 901,
+        "profit": 234,
+        "valuation": 10811
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 11
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 18
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-09-12T00:00:00.000Z"
+  },
+  {
+    "id": "deal-047",
+    "companyName": "SankalpFarms",
+    "tagline": "Data-driven yield optimisation for smallholder farmers.",
+    "logoSeed": "SankalpFarms",
+    "industry": "AgriTech",
+    "stage": "Growth",
+    "city": "Mumbai",
+    "foundedYear": 2015,
+    "riskLevel": "Low",
+    "roi": 10,
+    "minInvestment": 2,
+    "targetRaise": 1460,
+    "raisedSoFar": 1226,
+    "investorCount": 124,
+    "equityOffered": 16,
+    "description": "SankalpFarms is a growth-stage agritech company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "Government scheme empanelment secured",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 229,
+        "profit": 14,
+        "valuation": 2290
+      },
+      {
+        "year": 2018,
+        "revenue": 373,
+        "profit": 63,
+        "valuation": 3733
+      },
+      {
+        "year": 2019,
+        "revenue": 452,
+        "profit": 117,
+        "valuation": 4517
+      },
+      {
+        "year": 2020,
+        "revenue": 565,
+        "profit": 68,
+        "valuation": 3387
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 11
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 16
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "deal-048",
+    "companyName": "KavachNetworks",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "KavachNetworks",
+    "industry": "Media & Entertainment",
+    "stage": "Series A",
+    "city": "Jaipur",
+    "foundedYear": 2015,
+    "riskLevel": "High",
+    "roi": 23,
+    "minInvestment": 25,
+    "targetRaise": 995,
+    "raisedSoFar": 279,
+    "investorCount": 89,
+    "equityOffered": 16,
+    "description": "KavachNetworks is a series a-stage media & entertainment company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Government scheme empanelment secured",
+      "Strategic tie-up with a PSU distribution network",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 331,
+        "profit": 46,
+        "valuation": 3972
+      },
+      {
+        "year": 2018,
+        "revenue": 506,
+        "profit": 15,
+        "valuation": 4558
+      },
+      {
+        "year": 2019,
+        "revenue": 613,
+        "profit": -25,
+        "valuation": 3064
+      },
+      {
+        "year": 2020,
+        "revenue": 980,
+        "profit": 98,
+        "valuation": 3922
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 26
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-06-19T00:00:00.000Z"
+  },
+  {
+    "id": "deal-049",
+    "companyName": "KisanAnalytics",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "KisanAnalytics",
+    "industry": "Media & Entertainment",
+    "stage": "Growth",
+    "city": "Bengaluru",
+    "foundedYear": 2016,
+    "riskLevel": "Low",
+    "roi": 14,
+    "minInvestment": 10,
+    "targetRaise": 1993,
+    "raisedSoFar": 1774,
+    "investorCount": 18,
+    "equityOffered": 15,
+    "description": "KisanAnalytics is a growth-stage media & entertainment company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "3x YoY revenue growth for 2 consecutive years",
+      "Backed by marquee angel investors"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 369,
+        "profit": 52,
+        "valuation": 2952
+      },
+      {
+        "year": 2019,
+        "revenue": 546,
+        "profit": 98,
+        "valuation": 6553
+      },
+      {
+        "year": 2020,
+        "revenue": 704,
+        "profit": 134,
+        "valuation": 7749
+      },
+      {
+        "year": 2021,
+        "revenue": 972,
+        "profit": -58,
+        "valuation": 8750
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 7
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 17
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-01-08T00:00:00.000Z"
+  },
+  {
+    "id": "deal-050",
+    "companyName": "ZenithHealth",
+    "tagline": "Data-driven yield optimisation for smallholder farmers.",
+    "logoSeed": "ZenithHealth",
+    "industry": "AgriTech",
+    "stage": "Series C",
+    "city": "Chennai",
+    "foundedYear": 2022,
+    "riskLevel": "High",
+    "roi": 32,
+    "minInvestment": 1,
+    "targetRaise": 1521,
+    "raisedSoFar": 1186,
+    "investorCount": 74,
+    "equityOffered": 18,
+    "description": "ZenithHealth is a series c-stage agritech company headquartered in Bengaluru, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "Expanding to 3 new states this fiscal year",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 136,
+        "profit": 30,
+        "valuation": 1224
+      },
+      {
+        "year": 2025,
+        "revenue": 193,
+        "profit": 17,
+        "valuation": 772
+      },
+      {
+        "year": 2026,
+        "revenue": 226,
+        "profit": 25,
+        "valuation": 904
+      },
+      {
+        "year": 2027,
+        "revenue": 359,
+        "profit": 18,
+        "valuation": 4311
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 32
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 33
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 30
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 26
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-15T00:00:00.000Z"
+  },
+  {
+    "id": "deal-051",
+    "companyName": "OrbitFintech",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "OrbitFintech",
+    "industry": "Media & Entertainment",
+    "stage": "Series B",
+    "city": "Ahmedabad",
+    "foundedYear": 2018,
+    "riskLevel": "Medium",
+    "roi": 17,
+    "minInvestment": 5,
+    "targetRaise": 477,
+    "raisedSoFar": 95,
+    "investorCount": 224,
+    "equityOffered": 17,
+    "description": "OrbitFintech is a series b-stage media & entertainment company headquartered in Jaipur, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strategic tie-up with a PSU distribution network",
+      "Backed by marquee angel investors",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2020,
+        "revenue": 386,
+        "profit": 4,
+        "valuation": 1544
+      },
+      {
+        "year": 2021,
+        "revenue": 575,
+        "profit": 58,
+        "valuation": 6902
+      },
+      {
+        "year": 2022,
+        "revenue": 914,
+        "profit": 9,
+        "valuation": 5487
+      },
+      {
+        "year": 2023,
+        "revenue": 1445,
+        "profit": -144,
+        "valuation": 8669
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 13
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 29
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 32
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-05-23T00:00:00.000Z"
+  },
+  {
+    "id": "deal-052",
+    "companyName": "KisanMobility",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "KisanMobility",
+    "industry": "Media & Entertainment",
+    "stage": "Seed",
+    "city": "Hyderabad",
+    "foundedYear": 2017,
+    "riskLevel": "Medium",
+    "roi": 18,
+    "minInvestment": 10,
+    "targetRaise": 769,
+    "raisedSoFar": 707,
+    "investorCount": 58,
+    "equityOffered": 9,
+    "description": "KisanMobility is a seed-stage media & entertainment company headquartered in Ahmedabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "Founding team from IIT / IIM background",
+      "Government scheme empanelment secured"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 250,
+        "profit": -10,
+        "valuation": 2000
+      },
+      {
+        "year": 2020,
+        "revenue": 370,
+        "profit": 48,
+        "valuation": 4070
+      },
+      {
+        "year": 2021,
+        "revenue": 466,
+        "profit": 19,
+        "valuation": 5594
+      },
+      {
+        "year": 2022,
+        "revenue": 713,
+        "profit": 171,
+        "valuation": 4280
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 30
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "deal-053",
+    "companyName": "KrishiBio",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "KrishiBio",
+    "industry": "HealthTech",
+    "stage": "Growth",
+    "city": "Bengaluru",
+    "foundedYear": 2017,
+    "riskLevel": "Low",
+    "roi": 10,
+    "minInvestment": 2,
+    "targetRaise": 1849,
+    "raisedSoFar": 1757,
+    "investorCount": 188,
+    "equityOffered": 10,
+    "description": "KrishiBio is a growth-stage healthtech company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Expanding to 3 new states this fiscal year",
+      "Strong repeat-purchase / retention metrics",
+      "Government scheme empanelment secured"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 243,
+        "profit": -19,
+        "valuation": 1701
+      },
+      {
+        "year": 2020,
+        "revenue": 386,
+        "profit": 39,
+        "valuation": 4250
+      },
+      {
+        "year": 2021,
+        "revenue": 468,
+        "profit": 94,
+        "valuation": 2338
+      },
+      {
+        "year": 2022,
+        "revenue": 561,
+        "profit": 0,
+        "valuation": 6171
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 9
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 8
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 3
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 13
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-12-21T00:00:00.000Z"
+  },
+  {
+    "id": "deal-054",
+    "companyName": "NimbusWorks",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "NimbusWorks",
+    "industry": "HealthTech",
+    "stage": "Series A",
+    "city": "Mumbai",
+    "foundedYear": 2019,
+    "riskLevel": "High",
+    "roi": 35,
+    "minInvestment": 25,
+    "targetRaise": 496,
+    "raisedSoFar": 89,
+    "investorCount": 238,
+    "equityOffered": 17,
+    "description": "NimbusWorks is a series a-stage healthtech company headquartered in Ahmedabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Backed by marquee angel investors",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2021,
+        "revenue": 186,
+        "profit": 47,
+        "valuation": 2046
+      },
+      {
+        "year": 2022,
+        "revenue": 292,
+        "profit": -20,
+        "valuation": 2336
+      },
+      {
+        "year": 2023,
+        "revenue": 371,
+        "profit": -7,
+        "valuation": 1483
+      },
+      {
+        "year": 2024,
+        "revenue": 590,
+        "profit": 100,
+        "valuation": 5307
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 34
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 41
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 42
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 35
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 35
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "id": "deal-055",
+    "companyName": "NimbusVentures",
+    "tagline": "Quick-commerce for Bharat's non-metro shopper.",
+    "logoSeed": "NimbusVentures",
+    "industry": "E-commerce",
+    "stage": "Series C",
+    "city": "Chennai",
+    "foundedYear": 2016,
+    "riskLevel": "High",
+    "roi": 25,
+    "minInvestment": 1,
+    "targetRaise": 1654,
+    "raisedSoFar": 926,
+    "investorCount": 90,
+    "equityOffered": 5,
+    "description": "NimbusVentures is a series c-stage e-commerce company headquartered in Ahmedabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Government scheme empanelment secured",
+      "Strategic tie-up with a PSU distribution network",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 57,
+        "profit": 3,
+        "valuation": 627
+      },
+      {
+        "year": 2019,
+        "revenue": 66,
+        "profit": 9,
+        "valuation": 459
+      },
+      {
+        "year": 2020,
+        "revenue": 107,
+        "profit": 12,
+        "valuation": 534
+      },
+      {
+        "year": 2021,
+        "revenue": 136,
+        "profit": 20,
+        "valuation": 1086
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 25
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 34
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 30
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 16
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-11-13T00:00:00.000Z"
+  },
+  {
+    "id": "deal-056",
+    "companyName": "VrikshaLabs",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "VrikshaLabs",
+    "industry": "HealthTech",
+    "stage": "Series C",
+    "city": "Bengaluru",
+    "foundedYear": 2022,
+    "riskLevel": "High",
+    "roi": 27,
+    "minInvestment": 10,
+    "targetRaise": 1305,
+    "raisedSoFar": 1122,
+    "investorCount": 90,
+    "equityOffered": 20,
+    "description": "VrikshaLabs is a series c-stage healthtech company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Founding team from IIT / IIM background",
+      "Patent-pending core technology",
+      "Zero customer churn in enterprise segment"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 328,
+        "profit": 30,
+        "valuation": 2952
+      },
+      {
+        "year": 2025,
+        "revenue": 440,
+        "profit": -18,
+        "valuation": 3077
+      },
+      {
+        "year": 2026,
+        "revenue": 677,
+        "profit": -54,
+        "valuation": 5415
+      },
+      {
+        "year": 2027,
+        "revenue": 900,
+        "profit": 117,
+        "valuation": 5401
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 25
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 32
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 24
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-01-07T00:00:00.000Z"
+  },
+  {
+    "id": "deal-057",
+    "companyName": "MeridianFoods",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "MeridianFoods",
+    "industry": "HealthTech",
+    "stage": "Series C",
+    "city": "Chennai",
+    "foundedYear": 2023,
+    "riskLevel": "Low",
+    "roi": 11,
+    "minInvestment": 2,
+    "targetRaise": 1866,
+    "raisedSoFar": 1101,
+    "investorCount": 233,
+    "equityOffered": 5,
+    "description": "MeridianFoods is a series c-stage healthtech company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Expanding to 3 new states this fiscal year",
+      "Government scheme empanelment secured",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2025,
+        "revenue": 270,
+        "profit": 62,
+        "valuation": 2970
+      },
+      {
+        "year": 2026,
+        "revenue": 397,
+        "profit": 24,
+        "valuation": 3969
+      },
+      {
+        "year": 2027,
+        "revenue": 591,
+        "profit": 12,
+        "valuation": 5914
+      },
+      {
+        "year": 2028,
+        "revenue": 781,
+        "profit": -78,
+        "valuation": 5464
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 9
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 9
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 11
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "deal-058",
+    "companyName": "TerraFarms",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "TerraFarms",
+    "industry": "Manufacturing",
+    "stage": "Growth",
+    "city": "Jaipur",
+    "foundedYear": 2023,
+    "riskLevel": "High",
+    "roi": 37,
+    "minInvestment": 10,
+    "targetRaise": 1559,
+    "raisedSoFar": 281,
+    "investorCount": 214,
+    "equityOffered": 11,
+    "description": "TerraFarms is a growth-stage manufacturing company headquartered in Chandigarh, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "Patent-pending core technology",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2025,
+        "revenue": 328,
+        "profit": 79,
+        "valuation": 3280
+      },
+      {
+        "year": 2026,
+        "revenue": 400,
+        "profit": -8,
+        "valuation": 4802
+      },
+      {
+        "year": 2027,
+        "revenue": 636,
+        "profit": 121,
+        "valuation": 6363
+      },
+      {
+        "year": 2028,
+        "revenue": 840,
+        "profit": 185,
+        "valuation": 7559
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 35
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 43
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 46
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 35
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 40
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-03-18T00:00:00.000Z"
+  },
+  {
+    "id": "deal-059",
+    "companyName": "PrakashEnergy",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "PrakashEnergy",
+    "industry": "SaaS",
+    "stage": "Series C",
+    "city": "Chandigarh",
+    "foundedYear": 2023,
+    "riskLevel": "Low",
+    "roi": 13,
+    "minInvestment": 2,
+    "targetRaise": 703,
+    "raisedSoFar": 612,
+    "investorCount": 117,
+    "equityOffered": 17,
+    "description": "PrakashEnergy is a series c-stage saas company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Founding team from IIT / IIM background",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2025,
+        "revenue": 168,
+        "profit": 18,
+        "valuation": 1344
+      },
+      {
+        "year": 2026,
+        "revenue": 232,
+        "profit": 56,
+        "valuation": 927
+      },
+      {
+        "year": 2027,
+        "revenue": 318,
+        "profit": 70,
+        "valuation": 2223
+      },
+      {
+        "year": 2028,
+        "revenue": 365,
+        "profit": 80,
+        "valuation": 4018
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 14
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 22
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 18
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 22
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-01-11T00:00:00.000Z"
+  },
+  {
+    "id": "deal-060",
+    "companyName": "SwiftWorks",
+    "tagline": "Data-driven yield optimisation for smallholder farmers.",
+    "logoSeed": "SwiftWorks",
+    "industry": "AgriTech",
+    "stage": "Series C",
+    "city": "Pune",
+    "foundedYear": 2015,
+    "riskLevel": "Low",
+    "roi": 10,
+    "minInvestment": 1,
+    "targetRaise": 1497,
+    "raisedSoFar": 1392,
+    "investorCount": 68,
+    "equityOffered": 8,
+    "description": "SwiftWorks is a series c-stage agritech company headquartered in Ahmedabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strategic tie-up with a PSU distribution network",
+      "Expanding to 3 new states this fiscal year",
+      "Zero customer churn in enterprise segment"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 36,
+        "profit": 5,
+        "valuation": 252
+      },
+      {
+        "year": 2018,
+        "revenue": 50,
+        "profit": 13,
+        "valuation": 550
+      },
+      {
+        "year": 2019,
+        "revenue": 72,
+        "profit": -6,
+        "valuation": 793
+      },
+      {
+        "year": 2020,
+        "revenue": 109,
+        "profit": 2,
+        "valuation": 1197
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 9
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 9
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 4
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-08-18T00:00:00.000Z"
+  },
+  {
+    "id": "deal-061",
+    "companyName": "KisanBio",
+    "tagline": "Quick-commerce for Bharat's non-metro shopper.",
+    "logoSeed": "KisanBio",
+    "industry": "E-commerce",
+    "stage": "Seed",
+    "city": "Hyderabad",
+    "foundedYear": 2018,
+    "riskLevel": "High",
+    "roi": 28,
+    "minInvestment": 5,
+    "targetRaise": 1296,
+    "raisedSoFar": 156,
+    "investorCount": 54,
+    "equityOffered": 16,
+    "description": "KisanBio is a seed-stage e-commerce company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Government scheme empanelment secured",
+      "Founding team from IIT / IIM background",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2020,
+        "revenue": 80,
+        "profit": 20,
+        "valuation": 800
+      },
+      {
+        "year": 2021,
+        "revenue": 111,
+        "profit": 24,
+        "valuation": 1334
+      },
+      {
+        "year": 2022,
+        "revenue": 149,
+        "profit": 4,
+        "valuation": 894
+      },
+      {
+        "year": 2023,
+        "revenue": 207,
+        "profit": 48,
+        "valuation": 828
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 33
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 32
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 40
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 31
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "deal-062",
+    "companyName": "UdaySystems",
+    "tagline": "Quick-commerce for Bharat's non-metro shopper.",
+    "logoSeed": "UdaySystems",
+    "industry": "E-commerce",
+    "stage": "Series A",
+    "city": "Delhi NCR",
+    "foundedYear": 2015,
+    "riskLevel": "Medium",
+    "roi": 26,
+    "minInvestment": 10,
+    "targetRaise": 855,
+    "raisedSoFar": 393,
+    "investorCount": 130,
+    "equityOffered": 9,
+    "description": "UdaySystems is a series a-stage e-commerce company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Expanding to 3 new states this fiscal year",
+      "Strong repeat-purchase / retention metrics"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 304,
+        "profit": 49,
+        "valuation": 3040
+      },
+      {
+        "year": 2018,
+        "revenue": 429,
+        "profit": -34,
+        "valuation": 3000
+      },
+      {
+        "year": 2019,
+        "revenue": 604,
+        "profit": 48,
+        "valuation": 3626
+      },
+      {
+        "year": 2020,
+        "revenue": 846,
+        "profit": 34,
+        "valuation": 9307
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 29
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 23
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-18T00:00:00.000Z"
+  },
+  {
+    "id": "deal-063",
+    "companyName": "TerraGroup",
+    "tagline": "Rebuilding credit access for India's next 500 million users.",
+    "logoSeed": "TerraGroup",
+    "industry": "Fintech",
+    "stage": "Seed",
+    "city": "Chandigarh",
+    "foundedYear": 2017,
+    "riskLevel": "High",
+    "roi": 33,
+    "minInvestment": 25,
+    "targetRaise": 202,
+    "raisedSoFar": 139,
+    "investorCount": 81,
+    "equityOffered": 16,
+    "description": "TerraGroup is a seed-stage fintech company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "3x YoY revenue growth for 2 consecutive years",
+      "Strategic tie-up with a PSU distribution network",
+      "Expanding to 3 new states this fiscal year"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 24,
+        "profit": 3,
+        "valuation": 288
+      },
+      {
+        "year": 2020,
+        "revenue": 37,
+        "profit": -3,
+        "valuation": 260
+      },
+      {
+        "year": 2021,
+        "revenue": 49,
+        "profit": 10,
+        "valuation": 544
+      },
+      {
+        "year": 2022,
+        "revenue": 66,
+        "profit": -5,
+        "valuation": 663
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 32
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 33
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 33
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 35
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 27
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-14T00:00:00.000Z"
+  },
+  {
+    "id": "deal-064",
+    "companyName": "VidyaBio",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "VidyaBio",
+    "industry": "Manufacturing",
+    "stage": "Growth",
+    "city": "Mumbai",
+    "foundedYear": 2020,
+    "riskLevel": "Low",
+    "roi": 11,
+    "minInvestment": 25,
+    "targetRaise": 1680,
+    "raisedSoFar": 1277,
+    "investorCount": 184,
+    "equityOffered": 8,
+    "description": "VidyaBio is a growth-stage manufacturing company headquartered in Pune, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Founding team from IIT / IIM background",
+      "Strategic tie-up with a PSU distribution network",
+      "Zero customer churn in enterprise segment"
+    ],
+    "financials": [
+      {
+        "year": 2022,
+        "revenue": 233,
+        "profit": 58,
+        "valuation": 1165
+      },
+      {
+        "year": 2023,
+        "revenue": 317,
+        "profit": 73,
+        "valuation": 3803
+      },
+      {
+        "year": 2024,
+        "revenue": 513,
+        "profit": 103,
+        "valuation": 2053
+      },
+      {
+        "year": 2025,
+        "revenue": 601,
+        "profit": -36,
+        "valuation": 3003
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 13
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 20
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-07-07T00:00:00.000Z"
+  },
+  {
+    "id": "deal-065",
+    "companyName": "VayuGroup",
+    "tagline": "Precision components for the EV supply chain.",
+    "logoSeed": "VayuGroup",
+    "industry": "Manufacturing",
+    "stage": "Series C",
+    "city": "Delhi NCR",
+    "foundedYear": 2019,
+    "riskLevel": "Medium",
+    "roi": 22,
+    "minInvestment": 5,
+    "targetRaise": 623,
+    "raisedSoFar": 542,
+    "investorCount": 229,
+    "equityOffered": 4,
+    "description": "VayuGroup is a series c-stage manufacturing company headquartered in Pune, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Government scheme empanelment secured",
+      "Patent-pending core technology"
+    ],
+    "financials": [
+      {
+        "year": 2021,
+        "revenue": 132,
+        "profit": 0,
+        "valuation": 924
+      },
+      {
+        "year": 2022,
+        "revenue": 152,
+        "profit": -9,
+        "valuation": 1518
+      },
+      {
+        "year": 2023,
+        "revenue": 206,
+        "profit": 12,
+        "valuation": 2064
+      },
+      {
+        "year": 2024,
+        "revenue": 262,
+        "profit": 37,
+        "valuation": 2360
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 32
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 22
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-10T00:00:00.000Z"
+  },
+  {
+    "id": "deal-066",
+    "companyName": "KavachMobility",
+    "tagline": "Middle-mile freight, optimised by machine learning.",
+    "logoSeed": "KavachMobility",
+    "industry": "Logistics",
+    "stage": "Growth",
+    "city": "Jaipur",
+    "foundedYear": 2015,
+    "riskLevel": "Low",
+    "roi": 12,
+    "minInvestment": 2,
+    "targetRaise": 745,
+    "raisedSoFar": 179,
+    "investorCount": 134,
+    "equityOffered": 17,
+    "description": "KavachMobility is a growth-stage logistics company headquartered in Bengaluru, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "Backed by marquee angel investors",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2017,
+        "revenue": 392,
+        "profit": -27,
+        "valuation": 4312
+      },
+      {
+        "year": 2018,
+        "revenue": 451,
+        "profit": -9,
+        "valuation": 4508
+      },
+      {
+        "year": 2019,
+        "revenue": 618,
+        "profit": 167,
+        "valuation": 2470
+      },
+      {
+        "year": 2020,
+        "revenue": 951,
+        "profit": 162,
+        "valuation": 4755
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 18
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 14
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 27
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-07-08T00:00:00.000Z"
+  },
+  {
+    "id": "deal-067",
+    "companyName": "SetuRobotics",
+    "tagline": "Data-driven yield optimisation for smallholder farmers.",
+    "logoSeed": "SetuRobotics",
+    "industry": "AgriTech",
+    "stage": "Series C",
+    "city": "Mumbai",
+    "foundedYear": 2017,
+    "riskLevel": "Low",
+    "roi": 12,
+    "minInvestment": 10,
+    "targetRaise": 1571,
+    "raisedSoFar": 1147,
+    "investorCount": 227,
+    "equityOffered": 16,
+    "description": "SetuRobotics is a series c-stage agritech company headquartered in Delhi NCR, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Government scheme empanelment secured",
+      "Backed by marquee angel investors"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 184,
+        "profit": 6,
+        "valuation": 1472
+      },
+      {
+        "year": 2020,
+        "revenue": 247,
+        "profit": 42,
+        "valuation": 1233
+      },
+      {
+        "year": 2021,
+        "revenue": 397,
+        "profit": 28,
+        "valuation": 3573
+      },
+      {
+        "year": 2022,
+        "revenue": 552,
+        "profit": -44,
+        "valuation": 3862
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 13
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 18
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 12
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-07-14T00:00:00.000Z"
+  },
+  {
+    "id": "deal-068",
+    "companyName": "SetuTechnologies",
+    "tagline": "Short-form regional content, built for creators.",
+    "logoSeed": "SetuTechnologies",
+    "industry": "Media & Entertainment",
+    "stage": "Series C",
+    "city": "Pune",
+    "foundedYear": 2022,
+    "riskLevel": "Low",
+    "roi": 8,
+    "minInvestment": 10,
+    "targetRaise": 819,
+    "raisedSoFar": 598,
+    "investorCount": 36,
+    "equityOffered": 10,
+    "description": "SetuTechnologies is a series c-stage media & entertainment company headquartered in Pune, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Zero customer churn in enterprise segment",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 193,
+        "profit": 37,
+        "valuation": 965
+      },
+      {
+        "year": 2025,
+        "revenue": 255,
+        "profit": 23,
+        "valuation": 2038
+      },
+      {
+        "year": 2026,
+        "revenue": 367,
+        "profit": -26,
+        "valuation": 4402
+      },
+      {
+        "year": 2027,
+        "revenue": 539,
+        "profit": -54,
+        "valuation": 5393
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 11
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 8
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 8
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "deal-069",
+    "companyName": "VidyaLabs",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "VidyaLabs",
+    "industry": "SaaS",
+    "stage": "Growth",
+    "city": "Delhi NCR",
+    "foundedYear": 2021,
+    "riskLevel": "Low",
+    "roi": 14,
+    "minInvestment": 2,
+    "targetRaise": 1988,
+    "raisedSoFar": 1571,
+    "investorCount": 86,
+    "equityOffered": 19,
+    "description": "VidyaLabs is a growth-stage saas company headquartered in Jaipur, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Backed by marquee angel investors",
+      "Patent-pending core technology",
+      "3x YoY revenue growth for 2 consecutive years"
+    ],
+    "financials": [
+      {
+        "year": 2023,
+        "revenue": 155,
+        "profit": 25,
+        "valuation": 1395
+      },
+      {
+        "year": 2024,
+        "revenue": 217,
+        "profit": 48,
+        "valuation": 1519
+      },
+      {
+        "year": 2025,
+        "revenue": 278,
+        "profit": 78,
+        "valuation": 3055
+      },
+      {
+        "year": 2026,
+        "revenue": 361,
+        "profit": 51,
+        "valuation": 3611
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 26
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-08-13T00:00:00.000Z"
+  },
+  {
+    "id": "deal-070",
+    "companyName": "NimbusFarms",
+    "tagline": "Vernacular-first learning for tier 2 and tier 3 India.",
+    "logoSeed": "NimbusFarms",
+    "industry": "EdTech",
+    "stage": "Series C",
+    "city": "Chandigarh",
+    "foundedYear": 2020,
+    "riskLevel": "High",
+    "roi": 44,
+    "minInvestment": 25,
+    "targetRaise": 1783,
+    "raisedSoFar": 678,
+    "investorCount": 45,
+    "equityOffered": 8,
+    "description": "NimbusFarms is a series c-stage edtech company headquartered in Bengaluru, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Zero customer churn in enterprise segment",
+      "Strategic tie-up with a PSU distribution network",
+      "Expanding to 3 new states this fiscal year"
+    ],
+    "financials": [
+      {
+        "year": 2022,
+        "revenue": 92,
+        "profit": 13,
+        "valuation": 460
+      },
+      {
+        "year": 2023,
+        "revenue": 142,
+        "profit": 30,
+        "valuation": 567
+      },
+      {
+        "year": 2024,
+        "revenue": 217,
+        "profit": 46,
+        "valuation": 1301
+      },
+      {
+        "year": 2025,
+        "revenue": 269,
+        "profit": -22,
+        "valuation": 1344
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 45
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 50
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 42
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 37
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 59
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-11-08T00:00:00.000Z"
+  },
+  {
+    "id": "deal-071",
+    "companyName": "MeridianCommerce",
+    "tagline": "Decentralised solar for industrial clusters.",
+    "logoSeed": "MeridianCommerce",
+    "industry": "CleanEnergy",
+    "stage": "Series B",
+    "city": "Mumbai",
+    "foundedYear": 2018,
+    "riskLevel": "Medium",
+    "roi": 22,
+    "minInvestment": 1,
+    "targetRaise": 307,
+    "raisedSoFar": 120,
+    "investorCount": 128,
+    "equityOffered": 16,
+    "description": "MeridianCommerce is a series b-stage cleanenergy company headquartered in Jaipur, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strategic tie-up with a PSU distribution network",
+      "Backed by marquee angel investors",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2020,
+        "revenue": 263,
+        "profit": 29,
+        "valuation": 1841
+      },
+      {
+        "year": 2021,
+        "revenue": 423,
+        "profit": 51,
+        "valuation": 2117
+      },
+      {
+        "year": 2022,
+        "revenue": 567,
+        "profit": 142,
+        "valuation": 3972
+      },
+      {
+        "year": 2023,
+        "revenue": 687,
+        "profit": 185,
+        "valuation": 5492
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 23
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 29
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 34
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 34
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-12-27T00:00:00.000Z"
+  },
+  {
+    "id": "deal-072",
+    "companyName": "SundarCloud",
+    "tagline": "Quick-commerce for Bharat's non-metro shopper.",
+    "logoSeed": "SundarCloud",
+    "industry": "E-commerce",
+    "stage": "Seed",
+    "city": "Jaipur",
+    "foundedYear": 2021,
+    "riskLevel": "Low",
+    "roi": 13,
+    "minInvestment": 2,
+    "targetRaise": 842,
+    "raisedSoFar": 93,
+    "investorCount": 38,
+    "equityOffered": 11,
+    "description": "SundarCloud is a seed-stage e-commerce company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Expanding to 3 new states this fiscal year",
+      "3x YoY revenue growth for 2 consecutive years",
+      "Backed by marquee angel investors"
+    ],
+    "financials": [
+      {
+        "year": 2023,
+        "revenue": 236,
+        "profit": 38,
+        "valuation": 2360
+      },
+      {
+        "year": 2024,
+        "revenue": 359,
+        "profit": 0,
+        "valuation": 3228
+      },
+      {
+        "year": 2025,
+        "revenue": 448,
+        "profit": 9,
+        "valuation": 4932
+      },
+      {
+        "year": 2026,
+        "revenue": 605,
+        "profit": -12,
+        "valuation": 6053
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 15
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 13
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 18
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 10
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-02-13T00:00:00.000Z"
+  },
+  {
+    "id": "deal-073",
+    "companyName": "ZenithWorks",
+    "tagline": "Vernacular-first learning for tier 2 and tier 3 India.",
+    "logoSeed": "ZenithWorks",
+    "industry": "EdTech",
+    "stage": "Series B",
+    "city": "Chandigarh",
+    "foundedYear": 2016,
+    "riskLevel": "High",
+    "roi": 25,
+    "minInvestment": 1,
+    "targetRaise": 1178,
+    "raisedSoFar": 1107,
+    "investorCount": 213,
+    "equityOffered": 11,
+    "description": "ZenithWorks is a series b-stage edtech company headquartered in Pune, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Expanding to 3 new states this fiscal year",
+      "3x YoY revenue growth for 2 consecutive years",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2018,
+        "revenue": 115,
+        "profit": -6,
+        "valuation": 1035
+      },
+      {
+        "year": 2019,
+        "revenue": 135,
+        "profit": 15,
+        "valuation": 673
+      },
+      {
+        "year": 2020,
+        "revenue": 214,
+        "profit": -2,
+        "valuation": 1711
+      },
+      {
+        "year": 2021,
+        "revenue": 308,
+        "profit": 37,
+        "valuation": 3697
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 26
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 34
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 40
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-12-28T00:00:00.000Z"
+  },
+  {
+    "id": "deal-074",
+    "companyName": "LokaCommerce",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "LokaCommerce",
+    "industry": "SaaS",
+    "stage": "Series A",
+    "city": "Kolkata",
+    "foundedYear": 2019,
+    "riskLevel": "Medium",
+    "roi": 24,
+    "minInvestment": 25,
+    "targetRaise": 1850,
+    "raisedSoFar": 407,
+    "investorCount": 125,
+    "equityOffered": 12,
+    "description": "LokaCommerce is a series a-stage saas company headquartered in Bengaluru, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Backed by marquee angel investors",
+      "3x YoY revenue growth for 2 consecutive years",
+      "Zero customer churn in enterprise segment"
+    ],
+    "financials": [
+      {
+        "year": 2021,
+        "revenue": 120,
+        "profit": -11,
+        "valuation": 960
+      },
+      {
+        "year": 2022,
+        "revenue": 146,
+        "profit": 31,
+        "valuation": 732
+      },
+      {
+        "year": 2023,
+        "revenue": 189,
+        "profit": 0,
+        "valuation": 1700
+      },
+      {
+        "year": 2024,
+        "revenue": 225,
+        "profit": 52,
+        "valuation": 1573
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 18
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-06-19T00:00:00.000Z"
+  },
+  {
+    "id": "deal-075",
+    "companyName": "SetuGroup",
+    "tagline": "Middle-mile freight, optimised by machine learning.",
+    "logoSeed": "SetuGroup",
+    "industry": "Logistics",
+    "stage": "Series B",
+    "city": "Ahmedabad",
+    "foundedYear": 2020,
+    "riskLevel": "High",
+    "roi": 34,
+    "minInvestment": 1,
+    "targetRaise": 71,
+    "raisedSoFar": 21,
+    "investorCount": 89,
+    "equityOffered": 19,
+    "description": "SetuGroup is a series b-stage logistics company headquartered in Chennai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strategic tie-up with a PSU distribution network",
+      "Zero customer churn in enterprise segment",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2022,
+        "revenue": 29,
+        "profit": 3,
+        "valuation": 203
+      },
+      {
+        "year": 2023,
+        "revenue": 35,
+        "profit": -3,
+        "valuation": 138
+      },
+      {
+        "year": 2024,
+        "revenue": 52,
+        "profit": 1,
+        "valuation": 311
+      },
+      {
+        "year": 2025,
+        "revenue": 71,
+        "profit": 18,
+        "valuation": 638
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 36
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 32
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 36
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 27
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 40
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-19T00:00:00.000Z"
+  },
+  {
+    "id": "deal-076",
+    "companyName": "UdayRobotics",
+    "tagline": "Decentralised solar for industrial clusters.",
+    "logoSeed": "UdayRobotics",
+    "industry": "CleanEnergy",
+    "stage": "Series A",
+    "city": "Chennai",
+    "foundedYear": 2017,
+    "riskLevel": "High",
+    "roi": 35,
+    "minInvestment": 25,
+    "targetRaise": 568,
+    "raisedSoFar": 108,
+    "investorCount": 115,
+    "equityOffered": 15,
+    "description": "UdayRobotics is a series a-stage cleanenergy company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Founding team from IIT / IIM background",
+      "Strategic tie-up with a PSU distribution network"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 32,
+        "profit": 1,
+        "valuation": 128
+      },
+      {
+        "year": 2020,
+        "revenue": 46,
+        "profit": 2,
+        "valuation": 507
+      },
+      {
+        "year": 2021,
+        "revenue": 69,
+        "profit": -3,
+        "valuation": 691
+      },
+      {
+        "year": 2022,
+        "revenue": 82,
+        "profit": 23,
+        "valuation": 411
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 34
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 34
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 37
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 35
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 41
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-03T00:00:00.000Z"
+  },
+  {
+    "id": "deal-077",
+    "companyName": "TerraLogistics",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "TerraLogistics",
+    "industry": "HealthTech",
+    "stage": "Growth",
+    "city": "Bengaluru",
+    "foundedYear": 2021,
+    "riskLevel": "High",
+    "roi": 45,
+    "minInvestment": 10,
+    "targetRaise": 408,
+    "raisedSoFar": 233,
+    "investorCount": 129,
+    "equityOffered": 3,
+    "description": "TerraLogistics is a growth-stage healthtech company headquartered in Ahmedabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Profitable at unit-economics level",
+      "Zero customer churn in enterprise segment",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2023,
+        "revenue": 305,
+        "profit": 49,
+        "valuation": 3355
+      },
+      {
+        "year": 2024,
+        "revenue": 421,
+        "profit": 51,
+        "valuation": 4209
+      },
+      {
+        "year": 2025,
+        "revenue": 627,
+        "profit": 82,
+        "valuation": 7526
+      },
+      {
+        "year": 2026,
+        "revenue": 1035,
+        "profit": -41,
+        "valuation": 11383
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 47
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 49
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 52
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 47
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 51
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "deal-078",
+    "companyName": "VrikshaRobotics",
+    "tagline": "Data-driven yield optimisation for smallholder farmers.",
+    "logoSeed": "VrikshaRobotics",
+    "industry": "AgriTech",
+    "stage": "Growth",
+    "city": "Chennai",
+    "foundedYear": 2020,
+    "riskLevel": "Low",
+    "roi": 16,
+    "minInvestment": 1,
+    "targetRaise": 488,
+    "raisedSoFar": 410,
+    "investorCount": 99,
+    "equityOffered": 14,
+    "description": "VrikshaRobotics is a growth-stage agritech company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Patent-pending core technology",
+      "Government scheme empanelment secured",
+      "Expanding to 3 new states this fiscal year"
+    ],
+    "financials": [
+      {
+        "year": 2022,
+        "revenue": 76,
+        "profit": 13,
+        "valuation": 380
+      },
+      {
+        "year": 2023,
+        "revenue": 87,
+        "profit": 6,
+        "valuation": 961
+      },
+      {
+        "year": 2024,
+        "revenue": 108,
+        "profit": 8,
+        "valuation": 968
+      },
+      {
+        "year": 2025,
+        "revenue": 172,
+        "profit": -9,
+        "valuation": 2064
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 22
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 13
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-08-15T00:00:00.000Z"
+  },
+  {
+    "id": "deal-079",
+    "companyName": "MeridianHealth",
+    "tagline": "Quick-commerce for Bharat's non-metro shopper.",
+    "logoSeed": "MeridianHealth",
+    "industry": "E-commerce",
+    "stage": "Growth",
+    "city": "Mumbai",
+    "foundedYear": 2018,
+    "riskLevel": "Medium",
+    "roi": 21,
+    "minInvestment": 2,
+    "targetRaise": 766,
+    "raisedSoFar": 153,
+    "investorCount": 90,
+    "equityOffered": 9,
+    "description": "MeridianHealth is a growth-stage e-commerce company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Founding team from IIT / IIM background",
+      "Zero customer churn in enterprise segment",
+      "Backed by marquee angel investors"
+    ],
+    "financials": [
+      {
+        "year": 2020,
+        "revenue": 382,
+        "profit": 46,
+        "valuation": 1910
+      },
+      {
+        "year": 2021,
+        "revenue": 596,
+        "profit": 107,
+        "valuation": 4171
+      },
+      {
+        "year": 2022,
+        "revenue": 870,
+        "profit": 244,
+        "valuation": 5220
+      },
+      {
+        "year": 2023,
+        "revenue": 1044,
+        "profit": 188,
+        "valuation": 4176
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 23
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 19
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 21
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-04-27T00:00:00.000Z"
+  },
+  {
+    "id": "deal-080",
+    "companyName": "PrakashLabs",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "PrakashLabs",
+    "industry": "HealthTech",
+    "stage": "Series B",
+    "city": "Bengaluru",
+    "foundedYear": 2018,
+    "riskLevel": "Medium",
+    "roi": 20,
+    "minInvestment": 10,
+    "targetRaise": 695,
+    "raisedSoFar": 653,
+    "investorCount": 239,
+    "equityOffered": 19,
+    "description": "PrakashLabs is a series b-stage healthtech company headquartered in Bengaluru, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Backed by marquee angel investors",
+      "Zero customer churn in enterprise segment",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2020,
+        "revenue": 213,
+        "profit": 51,
+        "valuation": 2343
+      },
+      {
+        "year": 2021,
+        "revenue": 273,
+        "profit": 5,
+        "valuation": 2181
+      },
+      {
+        "year": 2022,
+        "revenue": 450,
+        "profit": 9,
+        "valuation": 4499
+      },
+      {
+        "year": 2023,
+        "revenue": 562,
+        "profit": 0,
+        "valuation": 2812
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 20
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 22
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 16
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 30
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 29
+      }
+    ],
+    "status": "Closing Soon",
+    "createdAt": "2024-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "deal-081",
+    "companyName": "UrbanHealth",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "UrbanHealth",
+    "industry": "HealthTech",
+    "stage": "Series A",
+    "city": "Jaipur",
+    "foundedYear": 2017,
+    "riskLevel": "Medium",
+    "roi": 16,
+    "minInvestment": 2,
+    "targetRaise": 954,
+    "raisedSoFar": 363,
+    "investorCount": 169,
+    "equityOffered": 5,
+    "description": "UrbanHealth is a series a-stage healthtech company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Strong repeat-purchase / retention metrics",
+      "Government scheme empanelment secured",
+      "Patent-pending core technology"
+    ],
+    "financials": [
+      {
+        "year": 2019,
+        "revenue": 153,
+        "profit": 17,
+        "valuation": 1224
+      },
+      {
+        "year": 2020,
+        "revenue": 245,
+        "profit": 66,
+        "valuation": 2203
+      },
+      {
+        "year": 2021,
+        "revenue": 284,
+        "profit": -20,
+        "valuation": 1988
+      },
+      {
+        "year": 2022,
+        "revenue": 344,
+        "profit": 3,
+        "valuation": 4123
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 17
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 12
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 25
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 28
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 25
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-08-12T00:00:00.000Z"
+  },
+  {
+    "id": "deal-082",
+    "companyName": "VidyaVentures",
+    "tagline": "Compliance automation for regulated enterprises.",
+    "logoSeed": "VidyaVentures",
+    "industry": "SaaS",
+    "stage": "Series B",
+    "city": "Delhi NCR",
+    "foundedYear": 2022,
+    "riskLevel": "High",
+    "roi": 36,
+    "minInvestment": 1,
+    "targetRaise": 635,
+    "raisedSoFar": 292,
+    "investorCount": 237,
+    "equityOffered": 18,
+    "description": "VidyaVentures is a series b-stage saas company headquartered in Kolkata, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Expanding to 3 new states this fiscal year",
+      "Strong repeat-purchase / retention metrics",
+      "Founding team from IIT / IIM background"
+    ],
+    "financials": [
+      {
+        "year": 2024,
+        "revenue": 181,
+        "profit": 4,
+        "valuation": 905
+      },
+      {
+        "year": 2025,
+        "revenue": 221,
+        "profit": 62,
+        "valuation": 1546
+      },
+      {
+        "year": 2026,
+        "revenue": 261,
+        "profit": -10,
+        "valuation": 2345
+      },
+      {
+        "year": 2027,
+        "revenue": 310,
+        "profit": -3,
+        "valuation": 1860
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 37
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 38
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 41
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 31
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 48
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "deal-083",
+    "companyName": "MeridianLabs",
+    "tagline": "Diagnostics-first care, delivered to the last mile.",
+    "logoSeed": "MeridianLabs",
+    "industry": "HealthTech",
+    "stage": "Series C",
+    "city": "Delhi NCR",
+    "foundedYear": 2023,
+    "riskLevel": "Medium",
+    "roi": 26,
+    "minInvestment": 5,
+    "targetRaise": 1574,
+    "raisedSoFar": 1306,
+    "investorCount": 76,
+    "equityOffered": 9,
+    "description": "MeridianLabs is a series c-stage healthtech company headquartered in Hyderabad, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "3x YoY revenue growth for 2 consecutive years",
+      "Expanding to 3 new states this fiscal year",
+      "Profitable at unit-economics level"
+    ],
+    "financials": [
+      {
+        "year": 2025,
+        "revenue": 385,
+        "profit": -35,
+        "valuation": 4620
+      },
+      {
+        "year": 2026,
+        "revenue": 635,
+        "profit": 44,
+        "valuation": 6353
+      },
+      {
+        "year": 2027,
+        "revenue": 934,
+        "profit": 205,
+        "valuation": 7471
+      },
+      {
+        "year": 2028,
+        "revenue": 1158,
+        "profit": 151,
+        "valuation": 13895
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 24
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 22
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 33
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 41
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-11-14T00:00:00.000Z"
+  },
+  {
+    "id": "deal-084",
+    "companyName": "NimbusCommerce",
+    "tagline": "Data-driven yield optimisation for smallholder farmers.",
+    "logoSeed": "NimbusCommerce",
+    "industry": "AgriTech",
+    "stage": "Series A",
+    "city": "Ahmedabad",
+    "foundedYear": 2023,
+    "riskLevel": "Low",
+    "roi": 15,
+    "minInvestment": 5,
+    "targetRaise": 332,
+    "raisedSoFar": 43,
+    "investorCount": 158,
+    "equityOffered": 16,
+    "description": "NimbusCommerce is a series a-stage agritech company headquartered in Mumbai, focused on scalable, capital-efficient growth across Bharat's emerging markets.",
+    "highlights": [
+      "Founding team from IIT / IIM background",
+      "Zero customer churn in enterprise segment",
+      "Government scheme empanelment secured"
+    ],
+    "financials": [
+      {
+        "year": 2025,
+        "revenue": 40,
+        "profit": 4,
+        "valuation": 360
+      },
+      {
+        "year": 2026,
+        "revenue": 49,
+        "profit": -4,
+        "valuation": 492
+      },
+      {
+        "year": 2027,
+        "revenue": 73,
+        "profit": 11,
+        "valuation": 806
+      },
+      {
+        "year": 2028,
+        "revenue": 106,
+        "profit": 23,
+        "valuation": 531
+      }
+    ],
+    "roiProjection": [
+      {
+        "year": 2026,
+        "projectedRoi": 14
+      },
+      {
+        "year": 2027,
+        "projectedRoi": 21
+      },
+      {
+        "year": 2028,
+        "projectedRoi": 13
+      },
+      {
+        "year": 2029,
+        "projectedRoi": 10
+      },
+      {
+        "year": 2030,
+        "projectedRoi": 15
+      }
+    ],
+    "status": "Open",
+    "createdAt": "2024-07-22T00:00:00.000Z"
+  }
+]
